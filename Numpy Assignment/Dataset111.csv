@@ -1,0 +1,204 @@
+student_id	course_id	Course name	enrollement	enrollment_date	grade
+10001	MATH101	Computer Science	enrolled	9/1/2021	A
+10002	MATH102	Computer Science	enrolled	9/2/2021	B
+10003	MATH103	Computer Science	enrolled	9/3/2021	C
+10004	MATH104	Computer Science	enrolled	9/4/2021	A
+10005	MATH105	Computer Science	enrolled	9/5/2021	B
+10006	MATH106	Computer Science	enrolled	9/6/2021	C
+10007	MATH107	Computer Science	enrolled	9/7/2021	B
+10008	MATH108	Computer Science	enrolled	9/8/2021	A
+10009	MATH109	Computer Science	enrolled	9/9/2021	B
+10010	MATH110	Computer Science	enrolled	9/10/2021	C
+10011	MATH111	Computer Science	enrolled	9/11/2021	A
+10012	MATH112	Chemical Engineering	enrolled	9/12/2021	B
+10013	MATH113	Chemical Engineering	enrolled	9/13/2021	C
+10014	MATH114	Chemical Engineering	enrolled	9/14/2021	B
+10015	MATH115	Chemical Engineering	enrolled	9/15/2021	A
+10016	MATH116	Chemical Engineering	enrolled	9/16/2021	B
+10017	MATH117	Chemical Engineering	enrolled	9/17/2021	C
+10018	MATH118	Chemical Engineering	enrolled	9/18/2021	A
+10019	MATH119	Chemical Engineering	enrolled	9/19/2021	B
+10020	MATH120	Chemical Engineering	enrolled	9/20/2021	A
+10021	MATH121	Chemical Engineering	enrolled	9/21/2021	A
+10022	MATH122	Chemical Engineering	enrolled	9/22/2021	B
+10023	MATH123	Chemical Engineering	enrolled	9/23/2021	C
+10024	MATH124	Chemical Engineering	enrolled	9/24/2021	B
+10025	MATH125	Software Engineering	enrolled	9/25/2021	A
+10026	MATH126	Software Engineering	enrolled	9/26/2021	B
+10027	MATH127	Software Engineering	enrolled	9/27/2021	C
+10028	MATH128	Software Engineering	enrolled	9/28/2021	B
+10029	MATH129	Software Engineering	enrolled	9/29/2021	A
+10030	MATH130	Software Engineering	enrolled	9/30/2021	B
+10031	MATH131	Software Engineering	enrolled	10/1/2021	C
+10032	MATH132	Software Engineering	enrolled	10/2/2021	A
+10033	MATH133	Software Engineering	enrolled	10/3/2021	B
+10034	MATH134	Software Engineering	enrolled	10/4/2021	C
+10035	MATH135	Computer Science	enrolled	10/5/2021	A
+10036	MATH136	Computer Science	enrolled	10/6/2021	B
+10037	MATH137	Computer Science	enrolled	10/7/2021	C
+10038	MATH138	Computer Science	enrolled	10/8/2021	B
+10039	MATH139	Computer Science	enrolled	10/9/2021	A
+10040	MATH140	Computer Science	enrolled	10/10/2021	B
+10041	MATH141	Computer Science	enrolled	10/11/2021	C
+10042	MATH142	Computer Science	enrolled	10/12/2021	A
+10043	MATH143	Computer Science	enrolled	10/13/2021	B
+10044	MATH144	Computer Science	enrolled	10/14/2021	C
+10045	MATH145	Computer Science	enrolled	10/15/2021	B
+10046	MATH146	Computer Science	enrolled	10/16/2021	A
+10047	MATH147	Computer Science	enrolled	10/17/2021	B
+10048	MATH148	Computer Science	enrolled	10/18/2021	C
+10049	MATH149	Data Science	enrolled	10/19/2021	A
+10050	MATH150	Data Science	enrolled	10/20/2021	B
+10051	MATH151	Data Science	enrolled	10/21/2021	A
+10052	MATH152	Data Science	enrolled	10/22/2021	A
+10053	MATH153	Data Science	enrolled	10/23/2021	B
+10054	MATH154	Data Science	enrolled	10/24/2021	C
+10055	MATH155	Data Science	enrolled	10/25/2021	B
+10056	MATH156	Data Science	enrolled	10/26/2021	A
+10057	MATH157	Data Science	enrolled	10/27/2021	B
+10058	MATH158	Data Science	enrolled	10/28/2021	C
+10059	MATH159	Data Science	enrolled	10/29/2021	B
+10060	MATH160	Data Science	enrolled	10/30/2021	A
+10061	MATH161	Data Science	enrolled	10/31/2021	B
+10062	MATH162	Data Science	enrolled	11/1/2021	C
+10063	MATH163	Data Science	enrolled	11/2/2021	A
+10064	MATH164	Data Science	enrolled	11/3/2021	B
+10065	MATH165	Data Science	enrolled	11/4/2021	C
+10066	MATH166	Data Science	enrolled	11/5/2021	A
+10067	MATH167	Data Science	enrolled	11/6/2021	B
+10068	MATH168	Data Science	enrolled	11/7/2021	C
+10069	MATH169	Telecommunication	enrolled	11/8/2021	B
+10070	MATH170	Telecommunication	enrolled	11/9/2021	A
+10071	MATH171	Telecommunication	enrolled	11/10/2021	B
+10072	MATH172	Telecommunication	enrolled	11/11/2021	C
+10073	MATH173	Telecommunication	enrolled	11/12/2021	A
+10074	MATH174	Telecommunication	enrolled	11/13/2021	B
+10075	MATH175	Telecommunication	enrolled	11/14/2021	C
+10076	MATH176	Telecommunication	enrolled	11/15/2021	B
+10077	MATH177	Telecommunication	enrolled	11/16/2021	A
+10078	MATH178	Telecommunication	enrolled	11/17/2021	B-
+10079	MATH179	Telecommunication	enrolled	11/18/2021	C
+10080	MATH180	Telecommunication	enrolled	11/19/2021	A
+10081	MATH181	Telecommunication	enrolled	11/20/2021	B
+10082	MATH182	Telecommunication	enrolled	11/21/2021	A
+10083	MATH183	Telecommunication	enrolled	11/22/2021	A
+10084	MATH184	Data Science	enrolled	11/23/2021	B
+10085	MATH185	Data Science	enrolled	11/24/2021	C
+10086	MATH186	Data Science	enrolled	11/25/2021	B
+10087	MATH187	Data Science	enrolled	11/26/2021	A
+10088	MATH188	Data Science	enrolled	11/27/2021	B
+10089	MATH189	Data Science	enrolled	11/28/2021	C
+10090	MATH190	Data Science	enrolled	11/29/2021	B
+10091	MATH191	Data Science	enrolled	11/30/2021	A
+10092	MATH192	Data Science	enrolled	12/1/2021	B
+10093	MATH193	Data Science	enrolled	12/2/2021	C
+10094	MATH194	Data Science	enrolled	12/3/2021	A
+10095	MATH195	Data Science	enrolled	12/4/2021	B
+10096	MATH196	Data Science	enrolled	12/5/2021	C
+10097	MATH197	Civil Engineering	enrolled	12/6/2021	A
+10098	MATH198	Civil Engineering	enrolled	12/7/2021	B
+10099	MATH199	Civil Engineering	enrolled	12/8/2021	C
+10100	MATH200	Civil Engineering	enrolled	12/9/2021	B
+10101	MATH201	Civil Engineering	enrolled	12/10/2021	A
+10102	MATH202	Civil Engineering	enrolled	12/11/2021	B
+10103	MATH203	Civil Engineering	enrolled	12/12/2021	C
+10104	MATH204	Civil Engineering	enrolled	12/13/2021	A
+10105	MATH205	Civil Engineering	enrolled	12/14/2021	B
+10106	MATH206	Civil Engineering	enrolled	12/15/2021	C
+10107	MATH207	Civil Engineering	enrolled	12/16/2021	B
+10108	MATH208	Civil Engineering	enrolled	12/17/2021	A
+10109	MATH209	Civil Engineering	enrolled	12/18/2021	B
+10110	MATH210	Civil Engineering	enrolled	12/19/2021	C
+10111	MATH211	Computer Science	enrolled	12/20/2021	A
+10112	MATH212	Computer Science	enrolled	12/21/2021	B
+10113	MATH213	Computer Science	enrolled	12/22/2021	A
+10114	MATH214	Computer Science	enrolled	12/23/2021	A
+10115	MATH215	Computer Science	enrolled	12/24/2021	B
+10116	MATH216	Computer Science	enrolled	12/25/2021	C
+10117	MATH217	Computer Science	enrolled	12/26/2021	B
+10118	MATH218	Computer Science	enrolled	12/27/2021	A
+10119	MATH219	Computer Science	enrolled	12/28/2021	B
+10120	MATH220	Computer Science	enrolled	12/29/2021	C
+10121	MATH221	Computer Science	enrolled	12/30/2021	B
+10122	MATH222	Computer Science	enrolled	12/31/2021	A
+10123	MATH223	Computer Science	enrolled	1/1/2022	B
+10124	MATH224	Computer Science	enrolled	1/2/2022	C
+10125	MATH225	Computer Science	enrolled	1/3/2022	A
+10126	MATH226	Computer Science	enrolled	1/4/2022	B
+10127	MATH227	Computer Science	enrolled	1/5/2022	C
+10128	MATH228	Data Science	enrolled	1/6/2022	A
+10129	MATH229	Data Science	enrolled	1/7/2022	B
+10130	MATH230	Data Science	enrolled	1/8/2022	C
+10131	MATH231	Cybersecurity	enrolled	1/9/2022	B
+10132	MATH232	Cybersecurity	enrolled	1/10/2022	A
+10133	MATH233	Cybersecurity	enrolled	1/11/2022	B
+10134	MATH234	Cybersecurity	enrolled	1/12/2022	C
+10135	MATH235	Cybersecurity	enrolled	1/13/2022	A
+10136	MATH236	Cybersecurity	enrolled	1/14/2022	B
+10137	MATH237	Cybersecurity	enrolled	1/15/2022	C
+10138	MATH238	Cybersecurity	enrolled	1/16/2022	B
+10139	MATH239	Cybersecurity	enrolled	1/17/2022	A
+10140	MATH240	Cybersecurity	enrolled	1/18/2022	B
+10141	MATH241	Cybersecurity	enrolled	1/19/2022	C
+10142	MATH242	Cybersecurity	enrolled	1/20/2022	A
+10143	MATH243	Cybersecurity	enrolled	1/21/2022	B
+10144	MATH244	Chemical Engineering	enrolled	1/22/2022	A
+10145	MATH245	Chemical Engineering	enrolled	1/23/2022	A
+10146	MATH246	Chemical Engineering	enrolled	1/24/2022	B
+10147	MATH247	Chemical Engineering	enrolled	1/25/2022	C
+10148	MATH248	Chemical Engineering	enrolled	1/26/2022	B
+10149	MATH249	Chemical Engineering	enrolled	1/27/2022	A
+10150	MATH250	Chemical Engineering	enrolled	1/28/2022	B
+10151	MATH251	Chemical Engineering	enrolled	1/29/2022	C
+10152	MATH252	Chemical Engineering	enrolled	1/30/2022	B
+10153	MATH253	Chemical Engineering	enrolled	1/31/2022	A
+10154	MATH254	Chemical Engineering	enrolled	2/1/2022	B
+10155	MATH255	Chemical Engineering	enrolled	2/2/2022	C
+10156	MATH256	Chemical Engineering	enrolled	2/3/2022	A
+10157	MATH257	Chemical Engineering	enrolled	2/4/2022	B
+10158	MATH258	Chemical Engineering	enrolled	2/5/2022	C
+10159	MATH259	Civil Engineering	enrolled	2/6/2022	A
+10160	MATH260	Civil Engineering	enrolled	2/7/2022	B
+10161	MATH261	Civil Engineering	enrolled	2/8/2022	C
+10162	MATH262	Civil Engineering	enrolled	2/9/2022	B
+10163	MATH263	Civil Engineering	enrolled	2/10/2022	A
+10164	MATH264	Civil Engineering	enrolled	2/11/2022	B
+10165	MATH265	Civil Engineering	enrolled	2/12/2022	C
+10166	MATH266	Civil Engineering	enrolled	2/13/2022	A
+10167	MATH267	Civil Engineering	enrolled	2/14/2022	B
+10168	MATH268	Civil Engineering	enrolled	2/15/2022	C
+10169	MATH269	Civil Engineering	enrolled	2/16/2022	B
+10170	MATH270	Civil Engineering	enrolled	2/17/2022	A
+10171	MATH271	Data Science	enrolled	2/18/2022	B
+10172	MATH272	Data Science	enrolled	2/19/2022	C
+10173	MATH273	Data Science	enrolled	2/20/2022	A
+10174	MATH274	Data Science	enrolled	2/21/2022	B
+10175	MATH275	Data Science	enrolled	2/22/2022	A
+10176	MATH276	Data Science	enrolled	2/23/2022	A
+10177	MATH277	Data Science	enrolled	2/24/2022	B
+10178	MATH278	Data Science	enrolled	2/25/2022	C
+10179	MATH279	Data Science	enrolled	2/26/2022	B
+10180	MATH280	Data Science	enrolled	2/27/2022	A
+10181	MATH281	Data Science	enrolled	2/28/2022	B
+10182	MATH282	Data Science	enrolled	3/1/2022	C
+10183	MATH283	Data Science	enrolled	3/2/2022	B
+10184	MATH284	Data Science	enrolled	3/3/2022	A
+10185	MATH285	Data Science	enrolled	3/4/2022	B
+10186	MATH286	Data Science	enrolled	3/5/2022	C
+10187	MATH287	Data Science	enrolled	3/6/2022	A
+10188	MATH288	Computer Science	enrolled	3/7/2022	B
+10189	MATH289	Computer Science	enrolled	3/8/2022	C
+10190	MATH290	Computer Science	enrolled	3/9/2022	A
+10191	MATH291	Computer Science	enrolled	3/10/2022	B
+10192	MATH292	Computer Science	enrolled	3/11/2022	C
+10193	MATH293	Telecommunication	enrolled	3/12/2022	B
+10194	MATH294	Telecommunication	enrolled	3/13/2022	A
+10195	MATH295	Telecommunication	enrolled	3/14/2022	B
+10196	MATH296	Telecommunication	enrolled	3/15/2022	C
+10197	MATH297	Telecommunication	enrolled	3/16/2022	A
+10198	MATH298	Telecommunication	enrolled	3/17/2022	B
+10199	MATH299	Telecommunication	enrolled	3/18/2022	C
+10200	MATH300	Telecommunication	enrolled	3/19/2022	B
+10201	MATH301	Telecommunication	enrolled	3/20/2022	A
+10202	MATH302	Telecommunication	enrolled	3/21/2022	B
+

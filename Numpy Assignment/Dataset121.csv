@@ -1,0 +1,220 @@
+id	type customer 	sentiment_score	rating	sentiment
+1	loyal	3	3	Just received my new product and I am in love! The design is amazing and it works perfectly #happycustomer #newproduct #designgoals
+2	loyal	6	3	I had high hopes for this product but it didn't live up to my expectations. I'm really disappointed #disappointed #productreview #honestopinion
+3	loyal	7	3	The customer service team for this product is fantastic! They were so helpful in resolving my issue. #greatcustomerservice #happycustomer #resolvedmyissue
+4	loyal	7	2	I really appreciate the eco-friendly materials used in this product. It's important to support sustainable products #ecofriendly #sustainableliving #supportgreenproducts
+5	loyal	2	2	I've been using this product for a few weeks now and it's been a game changer for me. So convenient and easy to use! #gamechanger #productreview #convenientproduct
+6	loyal	1	3	I wish there were more color options available for this product. The design is great but I want more choices! #morecolorsplease #productfeedback #designoptions
+7	loyal	8	1	"I was hesitant to purchase this product due to the price, but it was worth every penny. The quality is top-notch! #worthit #highqualityproduct #productreview"
+8	disloyal	6	3	The packaging for this product was excessive and wasteful. It's important for companies to be more mindful of their environmental impact. #excessivepackaging #environmentallyconscious #sustainability
+9	disloyal	8	1	The product arrived damaged but the customer service team quickly resolved the issue and sent a replacement. Great service! #greatcustomerservice #resolvedmyissue #damagedproduct
+10	disloyal	1	3	I'm loving this product so far! It's easy to clean and has held up well over time. #easycleaning #productdurability #happycustomer
+11	disloyal	3	1	I'm blown away by the level of customer service for this product. They went above and beyond to make sure I was satisfied. #amazingcustomerservice #happyclient #beyondexpectations
+12	disloyal	9	1	"I was initially hesitant to try this product, but after reading all the positive reviews, I decided to give it a chance. I'm so glad I did! It's exceeded my expectations. #positiveproductreviews #tryitout #happycustomer"
+13	disloyal	9	1	I've had a great experience with this product so far. It's made my life so much easier and I would highly recommend it to anyone. #lifechangingproduct #highlyrecommend #happycustomer
+14	disloyal	1	2	"I was skeptical about the claims this product was making, but it has truly delivered. It's a great investment and I'm thrilled with the results. #skepticalatfirst #greatinvestment #thrilledwithresults"
+15	disloyal	9	3	The quality of this product is outstanding. It's clear that a lot of thought and care went into its design and production. #highqualityproduct #thoughtfuldesign #carefulproduction
+16	loyal	6	1	I had a few questions about the product before purchasing and the customer service team was so helpful in answering them. It made the decision to buy so much easier. #helpfulcustomerservice #makingdecisions #happyshopper
+17	loyal	4	1	I love that this product is made from sustainable materials. It's important to support companies that are taking steps towards a more eco-friendly future. #supportingecofriendlybrands #sustainablematerials #futureminded
+18	loyal	9	2	I've been recommending this product to all my friends and family. It's just that good! #spreadthelove #recommendations #greatproduct
+19	loyal	4	3	"The price for this product is definitely on the higher side, but the benefits are worth it. It's an investment in my well-being. #worththeinvestment #higherpricetag #benefitsareworthit"
+20	loyal	2	2	I had an issue with the product and the customer service team was so quick to resolve it. They made the process so easy and stress-free. #quickresolutions #easystressfree #happycustomer
+21	loyal	2	2	I'm so impressed with how durable this product is. It's been through a lot and still looks brand new. #durability #longlastingproduct #impressedcustomer
+22	loyal	10	1	This product has saved me so much time and hassle. I don't know what I would do without it. #timesavingproduct #hasslefree #lifesaver
+23	loyal	5	3	The packaging for this product was so thoughtful and well-designed. It's clear the company cares about their customers. #thoughtfulpackaging #customeroriented #carefulattentiontodetail
+24	loyal	10	2	"I've tried a lot of similar products, but this one is by far the best. It's really worth the investment. #bestproduct #investinquality #topnotch"
+25	loyal	9	2	I appreciate that this product is made with non-toxic ingredients. It's important to me to use safe and healthy products. #nontoxic #safeingredients #healthylifestyle
+26	loyal	3	3	"I had a few issues with the product, but the customer service team was so helpful in resolving them. They really went above and beyond. #helpfulcustomerservice #problemresolved #beyondexpectations"
+27	loyal	10	2	I love that this product is multi-functional. It saves me money and space by replacing several other products. #multifunctionalproduct #savemoney #spaceefficient
+28	loyal	3	2	I'm so grateful for this product. It's helped me with a problem I've been struggling with for a long time. #gratefulcustomer #problemresolved #lifesaver
+29	loyal	7	2	The instructions for this product were really clear and easy to follow. It made using the product a breeze. #clearinstructions #easytouse #userfriendly
+30	disloyal	6	3	"I'm amazed at how much this product has improved my daily life. It's a small thing, but it's made a big difference. #lifeimprovement #bigdifference #dailyessentials"
+31	disloyal	4	1	This product exceeded my expectations in every way. I can't recommend it enough. #exceededexpectations #highlyrecommend #impressedcustomer
+32	disloyal	2	2	I love that this product is made by a company that values sustainability and social responsibility. It's important to me to support ethical businesses. #supportingsustainability #sociallyresponsible #ethicalbusiness
+33	disloyal	2	2	"I was hesitant to purchase this product, but after reading all the positive reviews, I decided to give it a try. I'm so glad I did! #positiveproductreviews #tryitout #satisfiedcustomer"
+34	disloyal	6	3	I've never had such a positive experience with a company before. They really care about their customers and it shows. #customeroriented #positiveexperience #caringcompany
+35	disloyal	9	1	I'm so impressed with the level of quality that went into this product. It's clear that the company takes pride in their work. #qualityproduct #prideinwork #impressedcustomer
+36	disloyal	4	2	I had a question about the product and reached out to customer service. They were so quick to respond and really helpful. #responsivecustomerservice #helpfulsupport #happycustomer
+37	disloyal	3	2	I appreciate that this product is made with sustainable materials. It's important to support companies that are making a positive impact on the environment. #supportingsustainability #ecofriendly #greenliving
+38	disloyal	3	3	I love that this product comes with a warranty. It gives me peace of mind knowing that the company stands behind their product. #productwarranty #peaceofmind #companyconfidence
+39	disloyal	9	1	This product has become an essential part of my daily routine. I can't imagine life without it now. #dailyessentials #cannotlive
+40	disloyal	7	3	"I've never experienced such great customer service before. The team went above and beyond to help me. #outstandingcustomerservice #aboveandbeyond #happyclient"""
+41	disloyal	3	2	"This product has changed my life. It's helped me in ways I never thought possible. #lifechanging #helpfulproduct #gratefulcustomer"""
+42	disloyal	6	3	"I'm so impressed with the attention to detail in this product. Everything from the packaging to the design is top-notch. #attentiontodetail #highquality #impressedcustomer"""
+43	disloyal	5	3	"I had a problem with my order, but the customer service team was so quick to resolve it. They made sure I was completely satisfied. #problemresolved #greatcustomerservice #happycustomer"""
+44	disloyal	2	3	I love how versatile this product is. It can be used in so many different ways and has become a staple in my routine. #versatileproduct #stapleinmyroutine #happycustomer
+45	loyal	7	2	"The product arrived earlier than expected and I couldn't be happier. It's great when companies exceed expectations. #fastshipping #exceededexpectations #happycustomer"""
+46	disloyal	8	1	"I appreciate that this product is made with natural ingredients. It's gentle on my skin and I feel good about using it. #naturalingredients #gentleproduct #satisfiedcustomer"""
+47	disloyal	2	2	"This product has saved me so much time and energy. It's made my daily routine much more efficient. #timesaver #efficientproduct #happyuser"""
+48	loyal	2	3	"The color options for this product are amazing. I had a hard time choosing which one to get! #greatcoloroptions #productdesign #happyshopper"""
+49	loyal	6	3	"I had a question about the product and the customer service team was so responsive. They provided me with all the information I needed. #responsiveteam #helpfulinformation #happycustomer"""
+50	loyal	8	3	"The product is so easy to use, even for someone like me who isn't tech-savvy. #userfriendlyproduct #easytouse #satisfiedcustomer"""
+51	loyal	6	2	"I love how this product is helping me reach my goals. It's given me the extra boost I needed. #goalgetter #motivationalproduct #happyuser"""
+52	loyal	5	3	"The price of this product may seem steep, but it's worth every penny. The quality is unmatched. #worththeprice #highqualityproduct #happyinvestor"""
+53	loyal	10	2	"I appreciate that this company gives back to the community. It's important to support businesses that make a positive impact. #communitygiving #supportinggoodcauses #happycustomer"""
+54	loyal	9	3	"This product has exceeded my expectations. It's even better than I thought it would be. #exceededexpectations #pleasantlysurprised #happycustomer"""
+55	disloyal	1	2	"I love that this product is made locally. It feels good to support local businesses. #supportlocal #madeinmycity #happycustomer"""
+56	disloyal	10	2	"I've recommended this product to all my friends and family. It's just that good! #wordofmouth #recommendations #greatproduct"""
+57	disloyal	10	3	"I had an issue with my order and the customer service team was quick to resolve it. They were so understanding and helpful. #quickresolution #helpfulcustomerservice #happycustomer"""
+58	disloyal	5	2	"This product has helped me save money in the long run. It's a great investment. #moneysaver #smartinvestment #happyuser"""
+59	disloyal	8	3	"I appreciate that this product is ethically made. It's important to support companies that prioritize ethical practices. #ethicalproduct #supportingethicalbrands #consciousconsumer"""
+60	disloyal	5	2	I've been using this product for a while now and it's still going strong. Definitely worth the investment. #longlastingproduct #worththeinvestment #happycustomer
+61	disloyal	7	3	The packaging for this product was beautiful and thoughtful. It made me feel like I was receiving a special gift. #thoughtfulpackaging #beautifulpresentation #specialproduct
+62	disloyal	8	1	I had a problem with my order and the customer service team was so understanding and helpful. They really went above and beyond. #helpfulcustomerservice #aboveandbeyond #problemresolved
+63	disloyal	9	1	This product has simplified my life so much. I don't know how I ever lived without it! #lifesimplification #productreview #happycustomer
+64	loyal	10	1	I'm a repeat customer for this product and I'll continue to be for years to come. It's just that good. #loyalcustomer #repeatpurchases #excellentproduct
+65	loyal	7	2	The design of this product is not only functional but also beautiful. It's a joy to use every day. #beautifuldesign #functionalproduct #joyfuluse
+66	loyal	4	3	"I was skeptical about this product at first, but it has completely won me over. I can't imagine going back to life without it. #initialskepticism #convertedcustomer #gamechanger"
+67	loyal	3	2	I appreciate that this company takes sustainability seriously. It makes me feel good about supporting them. #sustainabilitymatters #supportingresponsiblecompanies #environmentallyconscious
+68	loyal	3	1	The results from using this product have been better than I could have ever imagined. I'm thrilled with the outcome. #betterthanexpected #greatresults #productreview
+69	loyal	10	1	I've been using this product for a few months now and it's still in excellent condition. It's clear that it's made to last. #durableproduct #excellentcondition #productquality
+70	loyal	2	3	The customer service team for this product is top-notch. They're always so friendly and helpful. #greatcustomerservice #friendlyhelpfulteam #happycustomer
+71	loyal	3	1	I love that this product is made with natural ingredients. It's important to me to use products that are good for my body. #naturalingredients #goodforthebody #healthychoices
+72	loyal	6	1	"I had some concerns about this product before purchasing, but the reviews were so positive that I decided to give it a try. I'm glad I did! #reviewswin #tryitout #happyshopper"
+73	loyal	8	3	I use this product every day and it never fails to impress me. It's become a staple in my routine. #dailyuse #stapleproduct #impressiveperformance
+74	loyal	8	1	I wish I had discovered this product sooner. It would have saved me so much time and hassle. #wishidknownsooner #timesaver #happycustomer
+75	loyal	4	2	I received my order quickly and it was exactly what I was hoping for. I couldn't be happier with my purchase. #quickdelivery #exactlywhatineeded #happycustomer
+76	loyal	10	3	I love that this product is multi-functional. It saves me money and space in my home. #multifunctionalproduct #savemoney #saveonstorage
+77	loyal	10	1	The texture of this product is amazing. It feels luxurious and indulgent. #luxuriousproduct #amazingtexture #indulgenttreat
+78	loyal	6	1	The quality of this product is unmatched. I've tried similar products in the past and none compare. #qualityproduct #unmatchedperformance #productreview
+79	loyal	2	3	I appreciate that this product is made by a company that gives back
+80	disloyal	6	3	Just received my new product and I am in love! The design is amazing and it works perfectly #happycustomer #newproduct #designgoals
+81	disloyal	5	1	I had high hopes for this product but it didn't live up to my expectations. I'm really disappointed #disappointed #productreview #honestopinion
+82	disloyal	10	3	The customer service team for this product is fantastic! They were so helpful in resolving my issue. #greatcustomerservice #happycustomer #resolvedmyissue
+83	disloyal	4	2	I really appreciate the eco-friendly materials used in this product. It's important to support sustainable products #ecofriendly #sustainableliving #supportgreenproducts
+84	disloyal	2	3	I've been using this product for a few weeks now and it's been a game changer for me. So convenient and easy to use! #gamechanger #productreview #convenientproduct
+85	disloyal	1	3	I wish there were more color options available for this product. The design is great but I want more choices! #morecolorsplease #productfeedback #designoptions
+86	disloyal	4	3	"I was hesitant to purchase this product due to the price, but it was worth every penny. The quality is top-notch! #worthit #highqualityproduct #productreview"
+87	disloyal	4	3	The packaging for this product was excessive and wasteful. It's important for companies to be more mindful of their environmental impact. #excessivepackaging #environmentallyconscious #sustainability
+88	disloyal	7	1	The product arrived damaged but the customer service team quickly resolved the issue and sent a replacement. Great service! #greatcustomerservice #resolvedmyissue #damagedproduct
+89	disloyal	9	2	I'm loving this product so far! It's easy to clean and has held up well over time. #easycleaning #productdurability #happycustomer
+90	disloyal	7	3	I'm blown away by the level of customer service for this product. They went above and beyond to make sure I was satisfied. #amazingcustomerservice #happyclient #beyondexpectations
+91	disloyal	9	3	"I was initially hesitant to try this product, but after reading all the positive reviews, I decided to give it a chance. I'm so glad I did! It's exceeded my expectations. #positiveproductreviews #tryitout #happycustomer"
+92	disloyal	2	2	I've had a great experience with this product so far. It's made my life so much easier and I would highly recommend it to anyone. #lifechangingproduct #highlyrecommend #happycustomer
+93	disloyal	7	3	"I was skeptical about the claims this product was making, but it has truly delivered. It's a great investment and I'm thrilled with the results. #skepticalatfirst #greatinvestment #thrilledwithresults"
+94	loyal	6	1	The quality of this product is outstanding. It's clear that a lot of thought and care went into its design and production. #highqualityproduct #thoughtfuldesign #carefulproduction
+95	loyal	3	3	I had a few questions about the product before purchasing and the customer service team was so helpful in answering them. It made the decision to buy so much easier. #helpfulcustomerservice #makingdecisions #happyshopper
+96	loyal	4	2	I love that this product is made from sustainable materials. It's important to support companies that are taking steps towards a more eco-friendly future. #supportingecofriendlybrands #sustainablematerials #futureminded
+97	loyal	3	3	Just received my new product and I am in love! The design is amazing and it works perfectly #happycustomer #newproduct #designgoals
+98	loyal	3	2	I had high hopes for this product but it didn't live up to my expectations. I'm really disappointed #disappointed #productreview #honestopinion
+99	loyal	5	2	The customer service team for this product is fantastic! They were so helpful in resolving my issue. #greatcustomerservice #happycustomer #resolvedmyissue
+100	loyal	3	3	I really appreciate the eco-friendly materials used in this product. It's important to support sustainable products #ecofriendly #sustainableliving #supportgreenproducts
+101	loyal	9	2	I've been using this product for a few weeks now and it's been a game changer for me. So convenient and easy to use! #gamechanger #productreview #convenientproduct
+102	loyal	6	1	I wish there were more color options available for this product. The design is great but I want more choices! #morecolorsplease #productfeedback #designoptions
+103	loyal	6	2	"I was hesitant to purchase this product due to the price, but it was worth every penny. The quality is top-notch! #worthit #highqualityproduct #productreview"
+104	loyal	10	1	The packaging for this product was excessive and wasteful. It's important for companies to be more mindful of their environmental impact. #excessivepackaging #environmentallyconscious #sustainability
+105	loyal	4	2	The product arrived damaged but the customer service team quickly resolved the issue and sent a replacement. Great service! #greatcustomerservice #resolvedmyissue #damagedproduct
+106	loyal	5	3	I'm loving this product so far! It's easy to clean and has held up well over time. #easycleaning #productdurability #happycustomer
+107	loyal	9	1	I'm blown away by the level of customer service for this product. They went above and beyond to make sure I was satisfied. #amazingcustomerservice #happyclient #beyondexpectations
+108	loyal	1	2	"I was initially hesitant to try this product, but after reading all the positive reviews, I decided to give it a chance. I'm so glad I did! It's exceeded my expectations. #positiveproductreviews #tryitout #happycustomer"
+109	loyal	5	3	I've had a great experience with this product so far. It's made my life so much easier and I would highly recommend it to anyone. #lifechangingproduct #highlyrecommend #happycustomer
+110	loyal	2	1	"I was skeptical about the claims this product was making, but it has truly delivered. It's a great investment and I'm thrilled with the results. #skepticalatfirst #greatinvestment #thrilledwithresults"
+111	loyal	4	3	The quality of this product is outstanding. It's clear that a lot of thought and care went into its design and production. #highqualityproduct #thoughtfuldesign #carefulproduction
+112	loyal	3	3	I had a few questions about the product before purchasing and the customer service team was so helpful in answering them. It made the decision to buy so much easier. #helpfulcustomerservice #makingdecisions #happyshopper
+113	loyal	9	3	I love that this product is made from sustainable materials. It's important to support companies that are taking steps towards a more eco-friendly future. #supportingecofriendlybrands #sustainablematerials #futureminded
+114	loyal	2	3	I've been recommending this product to all my friends and family. It's just that good! #spreadthelove #recommendations #greatproduct
+115	loyal	2	3	"The price for this product is definitely on the higher side, but the benefits are worth it. It's an investment in my well-being. #worththeinvestment #higherpricetag #benefitsareworthit"
+116	loyal	3	2	I had an issue with the product and the customer service team was so quick to resolve it. They made the process so easy and stress-free. #quickresolutions #easystressfree #happycustomer
+117	loyal	5	3	I'm so impressed with how durable this product is. It's been through a lot and still looks brand new. #durability #longlastingproduct #impressedcustomer
+118	loyal	10	1	This product has saved me so much time and hassle. I don't know what I would do without it. #timesavingproduct #hasslefree #lifesaver
+119	loyal	6	2	The packaging for this product was so thoughtful and well-designed. It's clear the company cares about their customers. #thoughtfulpackaging #customeroriented #carefulattentiontodetail
+120	loyal	9	1	"I've tried a lot of similar products, but this one is by far the best. It's really worth the investment. #bestproduct #investinquality #topnotch"
+121	loyal	4	1	I appreciate that this product is made with non-toxic ingredients. It's important to me to use safe and healthy products. #nontoxic #safeingredients #healthylifestyle
+122	loyal	6	3	"I had a few issues with the product, but the customer service team was so helpful in resolving them. They really went above and beyond. #helpfulcustomerservice #problemresolved #beyondexpectations"
+123	loyal	2	1	I love that this product is multi-functional. It saves me money and space by replacing several other products. #multifunctionalproduct #savemoney #spaceefficient
+124	loyal	8	2	I'm so grateful for this product. It's helped me with a problem I've been struggling with for a long time. #gratefulcustomer #problemresolved #lifesaver
+125	loyal	3	3	The instructions for this product were really clear and easy to follow. It made using the product a breeze. #clearinstructions #easytouse #userfriendly
+126	loyal	4	3	"I'm amazed at how much this product has improved my daily life. It's a small thing, but it's made a big difference. #lifeimprovement #bigdifference #dailyessentials"
+127	loyal	5	2	This product exceeded my expectations in every way. I can't recommend it enough. #exceededexpectations #highlyrecommend #impressedcustomer
+128	loyal	1	2	I love that this product is made by a company that values sustainability and social responsibility. It's important to me to support ethical businesses. #supportingsustainability #sociallyresponsible #ethicalbusiness
+129	loyal	7	3	"I was hesitant to purchase this product, but after reading all the positive reviews, I decided to give it a try. I'm so glad I did! #positiveproductreviews #tryitout #satisfiedcustomer"
+130	loyal	3	1	I've never had such a positive experience with a company before. They really care about their customers and it shows. #customeroriented #positiveexperience #caringcompany
+131	loyal	9	2	I've been recommending this product to all my friends and family. It's just that good! #spreadthelove #recommendations #greatproduct
+132	loyal	6	1	"The price for this product is definitely on the higher side, but the benefits are worth it. It's an investment in my well-being. #worththeinvestment #higherpricetag #benefitsareworthit"
+133	loyal	7	3	I had an issue with the product and the customer service team was so quick to resolve it. They made the process so easy and stress-free. #quickresolutions #easystressfree #happycustomer
+134	loyal	10	2	I'm so impressed with how durable this product is. It's been through a lot and still looks brand new. #durability #longlastingproduct #impressedcustomer
+135	loyal	5	3	This product has saved me so much time and hassle. I don't know what I would do without it. #timesavingproduct #hasslefree #lifesaver
+136	loyal	10	2	The packaging for this product was so thoughtful and well-designed. It's clear the company cares about their customers. #thoughtfulpackaging #customeroriented #carefulattentiontodetail
+137	loyal	10	2	"I've tried a lot of similar products, but this one is by far the best. It's really worth the investment. #bestproduct #investinquality #topnotch"
+138	loyal	4	1	I appreciate that this product is made with non-toxic ingredients. It's important to me to use safe and healthy products. #nontoxic #safeingredients #healthylifestyle
+139	loyal	5	1	"I had a few issues with the product, but the customer service team was so helpful in resolving them. They really went above and beyond. #helpfulcustomerservice #problemresolved #beyondexpectations"
+140	loyal	3	1	I love that this product is multi-functional. It saves me money and space by replacing several other products. #multifunctionalproduct #savemoney #spaceefficient
+141	loyal	5	3	I'm so grateful for this product. It's helped me with a problem I've been struggling with for a long time. #gratefulcustomer #problemresolved #lifesaver
+142	loyal	5	1	The instructions for this product were really clear and easy to follow. It made using the product a breeze. #clearinstructions #easytouse #userfriendly
+143	loyal	2	1	"I'm amazed at how much this product has improved my daily life. It's a small thing, but it's made a big difference. #lifeimprovement #bigdifference #dailyessentials"
+144	loyal	3	3	This product exceeded my expectations in every way. I can't recommend it enough. #exceededexpectations #highlyrecommend #impressedcustomer
+145	loyal	4	2	I love that this product is made by a company that values sustainability and social responsibility. It's important to me to support ethical businesses. #supportingsustainability #sociallyresponsible #ethicalbusiness
+146	loyal	6	2	"I was hesitant to purchase this product, but after reading all the positive reviews, I decided to give it a try. I'm so glad I did! #positiveproductreviews #tryitout #satisfiedcustomer"
+147	loyal	9	1	I've never had such a positive experience with a company before. They really care about their customers and it shows. #customeroriented #positiveexperience #caringcompany
+148	loyal	8	2	I had a problem with my order and the customer service team was so understanding and helpful. They really went above and beyond. #helpfulcustomerservice #aboveandbeyond #problemresolved
+149	loyal	1	3	This product has simplified my life so much. I don't know how I ever lived without it! #lifesimplification #productreview #happycustomer
+150	loyal	6	2	I'm a repeat customer for this product and I'll continue to be for years to come. It's just that good. #loyalcustomer #repeatpurchases #excellentproduct
+151	loyal	2	3	The design of this product is not only functional but also beautiful. It's a joy to use every day. #beautifuldesign #functionalproduct #joyfuluse
+152	loyal	5	3	"I was skeptical about this product at first, but it has completely won me over. I can't imagine going back to life without it. #initialskepticism #convertedcustomer #gamechanger"
+153	loyal	9	1	I appreciate that this company takes sustainability seriously. It makes me feel good about supporting them. #sustainabilitymatters #supportingresponsiblecompanies #environmentallyconscious
+154	loyal	9	2	The results from using this product have been better than I could have ever imagined. I'm thrilled with the outcome. #betterthanexpected #greatresults #productreview
+155	loyal	3	1	I've been using this product for a few months now and it's still in excellent condition. It's clear that it's made to last. #durableproduct #excellentcondition #productquality
+156	loyal	5	1	The customer service team for this product is top-notch. They're always so friendly and helpful. #greatcustomerservice #friendlyhelpfulteam #happycustomer
+157	loyal	7	3	I love that this product is made with natural ingredients. It's important to me to use products that are good for my body. #naturalingredients #goodforthebody #healthychoices
+158	loyal	5	2	"I had some concerns about this product before purchasing, but the reviews were so positive that I decided to give it a try. I'm glad I did! #reviewswin #tryitout #happyshopper"
+159	loyal	6	1	I use this product every day and it never fails to impress me. It's become a staple in my routine. #dailyuse #stapleproduct #impressiveperformance
+160	loyal	4	3	I wish I had discovered this product sooner. It would have saved me so much time and hassle. #wishidknownsooner #timesaver #happycustomer
+161	loyal	2	1	I received my order quickly and it was exactly what I was hoping for. I couldn't be happier with my purchase. #quickdelivery #exactlywhatineeded #happycustomer
+162	loyal	3	3	I love that this product is multi-functional. It saves me money and space in my home. #multifunctionalproduct #savemoney #saveonstorage
+163	loyal	4	1	The texture of this product is amazing. It feels luxurious and indulgent. #luxuriousproduct #amazingtexture #indulgenttreat
+164	loyal	1	3	The quality of this product is unmatched. I've tried similar products in the past and none compare. #qualityproduct #unmatchedperformance #productreview
+165	loyal	2	2	I appreciate that this product is made by a company that gives back
+166	loyal	2	2	Just received my new product and I am in love! The design is amazing and it works perfectly #happycustomer #newproduct #designgoals
+167	loyal	9	1	I had high hopes for this product but it didn't live up to my expectations. I'm really disappointed #disappointed #productreview #honestopinion
+168	loyal	7	2	The customer service team for this product is fantastic! They were so helpful in resolving my issue. #greatcustomerservice #happycustomer #resolvedmyissue
+169	loyal	10	1	I really appreciate the eco-friendly materials used in this product. It's important to support sustainable products #ecofriendly #sustainableliving #supportgreenproducts
+170	disloyal	5	3	I've been using this product for a few weeks now and it's been a game changer for me. So convenient and easy to use! #gamechanger #productreview #convenientproduct
+171	disloyal	1	3	I wish there were more color options available for this product. The design is great but I want more choices! #morecolorsplease #productfeedback #designoptions
+172	disloyal	7	3	"I was hesitant to purchase this product due to the price, but it was worth every penny. The quality is top-notch! #worthit #highqualityproduct #productreview"
+173	disloyal	5	3	The packaging for this product was excessive and wasteful. It's important for companies to be more mindful of their environmental impact. #excessivepackaging #environmentallyconscious #sustainability
+174	disloyal	7	2	The product arrived damaged but the customer service team quickly resolved the issue and sent a replacement. Great service! #greatcustomerservice #resolvedmyissue #damagedproduct
+175	disloyal	9	2	I'm loving this product so far! It's easy to clean and has held up well over time. #easycleaning #productdurability #happycustomer
+176	disloyal	4	2	I'm blown away by the level of customer service for this product. They went above and beyond to make sure I was satisfied. #amazingcustomerservice #happyclient #beyondexpectations
+177	disloyal	1	1	"I was initially hesitant to try this product, but after reading all the positive reviews, I decided to give it a chance. I'm so glad I did! It's exceeded my expectations. #positiveproductreviews #tryitout #happycustomer"
+178	disloyal	4	2	I've had a great experience with this product so far. It's made my life so much easier and I would highly recommend it to anyone. #lifechangingproduct #highlyrecommend #happycustomer
+179	disloyal	9	1	"I was skeptical about the claims this product was making, but it has truly delivered. It's a great investment and I'm thrilled with the results. #skepticalatfirst #greatinvestment #thrilledwithresults"
+180	disloyal	7	2	The quality of this product is outstanding. It's clear that a lot of thought and care went into its design and production. #highqualityproduct #thoughtfuldesign #carefulproduction
+181	disloyal	4	3	I had a few questions about the product before purchasing and the customer service team was so helpful in answering them. It made the decision to buy so much easier. #helpfulcustomerservice #makingdecisions #happyshopper
+182	disloyal	4	2	I love that this product is made from sustainable materials. It's important to support companies that are taking steps towards a more eco-friendly future. #supportingecofriendlybrands #sustainablematerials #futureminded
+183	disloyal	3	2	Just received my new product and I am in love! The design is amazing and it works perfectly #happycustomer #newproduct #designgoals
+184	disloyal	8	1	I had high hopes for this product but it didn't live up to my expectations. I'm really disappointed #disappointed #productreview #honestopinion
+185	disloyal	8	1	The customer service team for this product is fantastic! They were so helpful in resolving my issue. #greatcustomerservice #happycustomer #resolvedmyissue
+186	disloyal	4	1	I really appreciate the eco-friendly materials used in this product. It's important to support sustainable products #ecofriendly #sustainableliving #supportgreenproducts
+187	loyal	9	1	I've been using this product for a few weeks now and it's been a game changer for me. So convenient and easy to use! #gamechanger #productreview #convenientproduct
+188	loyal	10	1	I wish there were more color options available for this product. The design is great but I want more choices! #morecolorsplease #productfeedback #designoptions
+189	loyal	7	3	"I was hesitant to purchase this product due to the price, but it was worth every penny. The quality is top-notch! #worthit #highqualityproduct #productreview"
+190	loyal	3	2	The packaging for this product was excessive and wasteful. It's important for companies to be more mindful of their environmental impact. #excessivepackaging #environmentallyconscious #sustainability
+191	loyal	4	3	The product arrived damaged but the customer service team quickly resolved the issue and sent a replacement. Great service! #greatcustomerservice #resolvedmyissue #damagedproduct
+192	loyal	10	3	I'm loving this product so far! It's easy to clean and has held up well over time. #easycleaning #productdurability #happycustomer
+193	loyal	9	3	I'm blown away by the level of customer service for this product. They went above and beyond to make sure I was satisfied. #amazingcustomerservice #happyclient #beyondexpectations
+194	loyal	7	1	"I was initially hesitant to try this product, but after reading all the positive reviews, I decided to give it a chance. I'm so glad I did! It's exceeded my expectations. #positiveproductreviews #tryitout #happycustomer"
+195	loyal	2	3	I've had a great experience with this product so far. It's made my life so much easier and I would highly recommend it to anyone. #lifechangingproduct #highlyrecommend #happycustomer
+196	loyal	3	3	"I was skeptical about the claims this product was making, but it has truly delivered. It's a great investment and I'm thrilled with the results. #skepticalatfirst #greatinvestment #thrilledwithresults"
+197	loyal	3	2	The quality of this product is outstanding. It's clear that a lot of thought and care went into its design and production. #highqualityproduct #thoughtfuldesign #carefulproduction
+198	disloyal	10	3	I had a few questions about the product before purchasing and the customer service team was so helpful in answering them. It made the decision to buy so much easier. #helpfulcustomerservice #makingdecisions #happyshopper
+199	disloyal	1	2	I love that this product is made from sustainable materials. It's important to support companies that are taking steps towards a more eco-friendly future. #supportingecofriendlybrands #sustainablematerials #futureminded
+200	disloyal	4	1	I've been recommending this product to all my friends and family. It's just that good! #spreadthelove #recommendations #greatproduct
+201	disloyal	7	3	"The price for this product is definitely on the higher side, but the benefits are worth it. It's an investment in my well-being. #worththeinvestment #higherpricetag #benefitsareworthit"
+202	disloyal	10	1	I had an issue with the product and the customer service team was so quick to resolve it. They made the process so easy and stress-free. #quickresolutions #easystressfree #happycustomer
+203	disloyal	10	1	I'm so impressed with how durable this product is. It's been through a lot and still looks brand new. #durability #longlastingproduct #impressedcustomer
+204	disloyal	3	1	This product has saved me so much time and hassle. I don't know what I would do without it. #timesavingproduct #hasslefree #lifesaver
+205	disloyal	7	2	The packaging for this product was so thoughtful and well-designed. It's clear the company cares about their customers. #thoughtfulpackaging #customeroriented #carefulattentiontodetail
+206	disloyal	5	2	"I've tried a lot of similar products, but this one is by far the best. It's really worth the investment. #bestproduct #investinquality #topnotch"
+207	loyal	6	2	I appreciate that this product is made with non-toxic ingredients. It's important to me to use safe and healthy products. #nontoxic #safeingredients #healthylifestyle
+208	loyal	4	2	"I had a few issues with the product, but the customer service team was so helpful in resolving them. They really went above and beyond. #helpfulcustomerservice #problemresolved #beyondexpectations"
+209	loyal	3	3	I love that this product is multi-functional. It saves me money and space by replacing several other products. #multifunctionalproduct #savemoney #spaceefficient
+210	loyal	9	1	I'm so grateful for this product. It's helped me with a problem I've been struggling with for a long time. #gratefulcustomer #problemresolved #lifesaver
+211	loyal	8	2	The instructions for this product were really clear and easy to follow. It made using the product a breeze. #clearinstructions #easytouse #userfriendly
+212	loyal	9	2	"I'm amazed at how much this product has improved my daily life. It's a small thing, but it's made a big difference. #lifeimprovement #bigdifference #dailyessentials"
+213	loyal	10	1	This product exceeded my expectations in every way. I can't recommend it enough. #exceededexpectations #highlyrecommend #impressedcustomer
+214	loyal	5	3	I love that this product is made by a company that values sustainability and social responsibility. It's important to me to support ethical businesses. #supportingsustainability #sociallyresponsible #ethicalbusiness
+215	loyal	8	2	"I was hesitant to purchase this product, but after reading all the positive reviews, I decided to give it a try. I'm so glad I did! #positiveproductreviews #tryitout #satisfiedcustomer"
+216	loyal	5	3	I've never had such a positive experience with a company before. They really care about their customers and it shows. #customeroriented #positiveexperience #caringcompany
+217	loyal	3	2	I've been recommending this product to all my friends and family. It's just that good! #spreadthelove #recommendations #greatproduct
+218	loyal	10	1	"The price for this product is definitely on the higher side, but the benefits are worth it. It's an investment in my well-being. #worththeinvestment #higherpricetag #benefitsareworthit"
+219	loyal	6	2	I had an issue with the product and the customer service team was so quick to resolve it. They made the process so easy and stress-free. #quickresolutions #easystressfree #happycustomer

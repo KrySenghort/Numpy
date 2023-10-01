@@ -1,0 +1,1001 @@
+transportation_data,duration_data,location_data,payment_data
+0,Train,146.0,Suburbs,Credit Card
+1,Bus,117.0,Rural,Credit Card
+2,Car,164.0,Rural,Mobile Payment
+3,Train,142.0,Suburbs,Credit Card
+4,Plane,195.0,Suburbs,Debit Card
+5,Bike,159.0,Suburbs,Cash
+6,Car,96.0,Suburbs,Credit Card
+7,Bus,192.0,Rural,Credit Card
+8,Car,171.0,Rural,Debit Card
+9,Plane,113.0,Suburbs,Debit Card
+10,Bike,98.0,City,Debit Card
+11,Plane,86.0,Rural,Cash
+12,Train,56.0,City,Debit Card
+13,Bike,105.0,City,Debit Card
+14,Car,104.0,Suburbs,Credit Card
+15,Plane,43.0,Rural,Debit Card
+16,Car,40.0,Suburbs,Mobile Payment
+17,Bus,167.0,City,Credit Card
+18,Plane,268.0,City,Mobile Payment
+19,Bus,155.0,City,Credit Card
+20,Plane,202.0,Rural,Credit Card
+21,Bus,54.0,City,Debit Card
+22,Bus,147.0,Rural,Credit Card
+23,Bike,134.0,City,Debit Card
+24,Plane,187.0,Rural,Debit Card
+25,Train,136.0,Rural,Mobile Payment
+26,Car,258.0,City,Credit Card
+27,Bus,137.0,City,Credit Card
+28,Bike,75.0,Rural,Cash
+29,Bus,95.0,Suburbs,Cash
+30,Train,1.0,Rural,Debit Card
+31,Bus,144.0,Suburbs,Mobile Payment
+32,Train,11.0,Rural,Debit Card
+33,Plane,91.0,Rural,Mobile Payment
+34,Train,171.0,Suburbs,Cash
+35,Bike,170.0,Suburbs,Debit Card
+36,Car,221.0,Rural,Debit Card
+37,Bike,187.0,Rural,Cash
+38,Car,140.0,City,Credit Card
+39,Bus,205.0,Suburbs,Debit Card
+40,Car,157.0,Suburbs,Credit Card
+41,Car,84.0,City,Debit Card
+42,Car,120.0,Rural,Cash
+43,Bike,105.0,Rural,Cash
+44,Bus,129.0,Rural,Mobile Payment
+45,Plane,85.0,City,Debit Card
+46,Car,155.0,City,Cash
+47,Plane,85.0,City,Debit Card
+48,Car,67.0,City,Credit Card
+49,Bus,51.0,Suburbs,Debit Card
+50,Train,5.0,Suburbs,Cash
+51,Plane,184.0,Suburbs,Mobile Payment
+52,Car,143.0,City,Cash
+53,Bus,48.0,City,Credit Card
+54,Bike,17.0,Rural,Credit Card
+55,Bike,144.0,Suburbs,Debit Card
+56,Car,149.0,Rural,Credit Card
+57,Bike,168.0,City,Cash
+58,Car,126.0,Suburbs,Cash
+59,Bus,86.0,Rural,Credit Card
+60,Bus,128.0,Rural,Credit Card
+61,Plane,107.0,City,Mobile Payment
+62,Car,140.0,City,Cash
+63,Car,149.0,Suburbs,Credit Card
+64,Train,139.0,Rural,Mobile Payment
+65,Bus,163.0,City,Mobile Payment
+66,Bike,117.0,Suburbs,Credit Card
+67,Bike,158.0,City,Mobile Payment
+68,Train,84.0,City,Debit Card
+69,Bike,106.0,City,Mobile Payment
+70,Bus,113.0,Rural,Mobile Payment
+71,Train,13.0,Suburbs,Credit Card
+72,Bus,112.0,City,Mobile Payment
+73,Train,81.0,Rural,Debit Card
+74,Bus,167.0,Rural,Credit Card
+75,Bus,30.0,Rural,Mobile Payment
+76,Bike,150.0,City,Debit Card
+77,Car,160.0,Rural,Credit Card
+78,Bike,153.0,Suburbs,Debit Card
+79,Train,132.0,Suburbs,Cash
+80,Train,150.0,Rural,Credit Card
+81,Bike,139.0,City,Debit Card
+82,Bike,133.0,Rural,Credit Card
+83,Bike,210.0,Rural,Credit Card
+84,Bike,72.0,Rural,Debit Card
+85,Bus,108.0,City,Debit Card
+86,Car,97.0,Suburbs,Debit Card
+87,Car,134.0,Suburbs,Debit Card
+88,Bus,112.0,City,Debit Card
+89,Bike,82.0,City,Credit Card
+90,Train,18.0,Rural,Cash
+91,Bike,107.0,Suburbs,Credit Card
+92,Train,235.0,Suburbs,Credit Card
+93,Bus,110.0,Suburbs,Debit Card
+94,Bike,79.0,City,Credit Card
+95,Car,75.0,Suburbs,Cash
+96,Train,45.0,Rural,Debit Card
+97,Car,157.0,Suburbs,Credit Card
+98,Plane,160.0,Suburbs,Mobile Payment
+99,Car,154.0,City,Credit Card
+100,Train,71.0,City,Mobile Payment
+101,Train,129.0,City,Cash
+102,Bus,99.0,Suburbs,Cash
+103,Train,291.0,City,Mobile Payment
+104,Bus,120.0,City,Mobile Payment
+105,Bus,151.0,City,Cash
+106,Car,189.0,Rural,Mobile Payment
+107,Bike,46.0,City,Credit Card
+108,Bike,137.0,Suburbs,Credit Card
+109,Car,163.0,Rural,Credit Card
+110,Train,91.0,City,Mobile Payment
+111,Bus,95.0,Rural,Cash
+112,Bus,7.0,City,Cash
+113,Plane,179.0,Rural,Mobile Payment
+114,Train,113.0,City,Mobile Payment
+115,Plane,24.0,City,Debit Card
+116,Train,21.0,City,Debit Card
+117,Plane,166.0,Rural,Credit Card
+118,Bike,36.0,Rural,Mobile Payment
+119,Car,51.0,Suburbs,Credit Card
+120,Car,178.0,Suburbs,Mobile Payment
+121,Plane,80.0,City,Debit Card
+122,Car,158.0,City,Debit Card
+123,Bike,209.0,Suburbs,Mobile Payment
+124,Bus,101.0,Rural,Cash
+125,Plane,18.0,City,Debit Card
+126,Train,152.0,Suburbs,Mobile Payment
+127,Train,23.0,Rural,Debit Card
+128,Bus,161.0,Rural,Cash
+129,Car,4.0,Suburbs,Debit Card
+130,Bus,53.0,Rural,Cash
+131,Car,156.0,Rural,Credit Card
+132,Bike,39.0,City,Mobile Payment
+133,Train,142.0,Rural,Debit Card
+134,Train,21.0,City,Cash
+135,Train,9.0,Rural,Debit Card
+136,Bike,198.0,Suburbs,Credit Card
+137,Plane,146.0,Suburbs,Debit Card
+138,Bike,72.0,City,Debit Card
+139,Plane,179.0,Suburbs,Mobile Payment
+140,Bike,110.0,City,Debit Card
+141,Bus,140.0,Rural,Debit Card
+142,Plane,135.0,City,Mobile Payment
+143,Bus,187.0,Rural,Debit Card
+144,Plane,201.0,City,Cash
+145,Plane,90.0,Rural,Mobile Payment
+146,Bike,163.0,Suburbs,Debit Card
+147,Bus,230.0,Rural,Cash
+148,Train,48.0,Suburbs,Credit Card
+149,Bike,237.0,Rural,Credit Card
+150,Bus,87.0,Rural,Debit Card
+151,Car,107.0,City,Debit Card
+152,Train,95.0,Suburbs,Mobile Payment
+153,Car,154.0,Suburbs,Cash
+154,Train,109.0,Rural,Debit Card
+155,Car,172.0,Rural,Cash
+156,Bus,112.0,Suburbs,Credit Card
+157,Bike,198.0,Suburbs,Cash
+158,Plane,179.0,Suburbs,Mobile Payment
+159,Bike,313.0,Suburbs,Credit Card
+160,Car,165.0,Suburbs,Cash
+161,Plane,46.0,Suburbs,Credit Card
+162,Plane,68.0,Rural,Debit Card
+163,Bike,124.0,City,Mobile Payment
+164,Car,98.0,Suburbs,Cash
+165,Bus,176.0,Suburbs,Credit Card
+166,Bike,141.0,Suburbs,Debit Card
+167,Plane,130.0,Suburbs,Debit Card
+168,Bike,137.0,City,Cash
+169,Bike,211.0,City,Mobile Payment
+170,Train,135.0,Rural,Credit Card
+171,Bus,113.0,City,Mobile Payment
+172,Car,129.0,Rural,Mobile Payment
+173,Plane,71.0,City,Mobile Payment
+174,Plane,196.0,Rural,Debit Card
+175,Bike,100.0,Suburbs,Credit Card
+176,Bike,184.0,Rural,Credit Card
+177,Bus,25.0,Suburbs,Mobile Payment
+178,Train,61.0,Suburbs,Mobile Payment
+179,Bus,130.0,Rural,Credit Card
+180,Plane,85.0,Suburbs,Debit Card
+181,Bike,69.0,City,Credit Card
+182,Plane,171.0,Rural,Cash
+183,Plane,131.0,City,Mobile Payment
+184,Plane,75.0,City,Mobile Payment
+185,Bus,115.0,Suburbs,Credit Card
+186,Plane,221.0,Rural,Mobile Payment
+187,Plane,32.0,Suburbs,Cash
+188,Bike,183.0,City,Cash
+189,Train,86.0,Rural,Debit Card
+190,Bike,211.0,City,Mobile Payment
+191,Bike,99.0,Suburbs,Credit Card
+192,Plane,135.0,Rural,Mobile Payment
+193,Bike,205.0,City,Mobile Payment
+194,Plane,110.0,Rural,Debit Card
+195,Car,178.0,City,Cash
+196,Car,16.0,Rural,Cash
+197,Car,186.0,Rural,Mobile Payment
+198,Plane,141.0,Suburbs,Credit Card
+199,Plane,150.0,Rural,Credit Card
+200,Plane,111.0,Suburbs,Debit Card
+201,Plane,135.0,City,Cash
+202,Train,211.0,Rural,Mobile Payment
+203,Plane,155.0,Suburbs,Credit Card
+204,Car,226.0,Rural,Mobile Payment
+205,Bus,83.0,Suburbs,Mobile Payment
+206,Train,141.0,Suburbs,Cash
+207,Car,2.0,Rural,Credit Card
+208,Car,283.0,City,Mobile Payment
+209,Car,169.0,Rural,Mobile Payment
+210,Car,79.0,Suburbs,Credit Card
+211,Train,211.0,Suburbs,Debit Card
+212,Bus,11.0,Suburbs,Cash
+213,Bus,23.0,City,Credit Card
+214,Car,148.0,City,Mobile Payment
+215,Train,141.0,Rural,Credit Card
+216,Car,72.0,Suburbs,Credit Card
+217,Bus,47.0,City,Debit Card
+218,Plane,120.0,City,Credit Card
+219,Plane,22.0,City,Cash
+220,Train,99.0,City,Mobile Payment
+221,Plane,306.0,Suburbs,Mobile Payment
+222,Bike,68.0,Suburbs,Debit Card
+223,Plane,164.0,Suburbs,Credit Card
+224,Plane,172.0,Suburbs,Mobile Payment
+225,Bus,117.0,Suburbs,Mobile Payment
+226,Plane,148.0,Rural,Credit Card
+227,Car,104.0,City,Mobile Payment
+228,Bike,180.0,Suburbs,Cash
+229,Plane,88.0,Suburbs,Credit Card
+230,Train,110.0,Rural,Credit Card
+231,Bus,88.0,City,Debit Card
+232,Bus,133.0,Rural,Mobile Payment
+233,Plane,173.0,Rural,Debit Card
+234,Train,134.0,Suburbs,Credit Card
+235,Plane,147.0,Rural,Cash
+236,Bike,114.0,Rural,Cash
+237,Bike,118.0,Rural,Cash
+238,Bike,21.0,City,Debit Card
+239,Plane,55.0,Rural,Cash
+240,Plane,190.0,Rural,Debit Card
+241,Bike,19.0,Rural,Cash
+242,Bus,70.0,City,Mobile Payment
+243,Plane,36.0,Suburbs,Mobile Payment
+244,Train,132.0,Rural,Mobile Payment
+245,Bike,122.0,Rural,Mobile Payment
+246,Bus,183.0,Rural,Cash
+247,Bus,60.0,Suburbs,Mobile Payment
+248,Bus,89.0,Suburbs,Cash
+249,Plane,173.0,City,Debit Card
+250,Plane,198.0,Suburbs,Credit Card
+251,Bike,19.0,City,Cash
+252,Train,159.0,Suburbs,Cash
+253,Bike,83.0,Suburbs,Mobile Payment
+254,Train,110.0,Suburbs,Credit Card
+255,Train,164.0,Rural,Credit Card
+256,Bus,67.0,Suburbs,Cash
+257,Plane,106.0,City,Cash
+258,Train,81.0,City,Mobile Payment
+259,Train,176.0,Suburbs,Mobile Payment
+260,Train,201.0,Rural,Cash
+261,Train,103.0,Rural,Cash
+262,Car,89.0,Rural,Debit Card
+263,Bus,134.0,City,Cash
+264,Bus,191.0,City,Debit Card
+265,Train,130.0,City,Debit Card
+266,Car,171.0,Rural,Mobile Payment
+267,Bike,141.0,City,Mobile Payment
+268,Train,154.0,City,Cash
+269,Train,7.0,Rural,Mobile Payment
+270,Car,63.0,Suburbs,Credit Card
+271,Bike,202.0,Suburbs,Credit Card
+272,Car,91.0,Suburbs,Credit Card
+273,Car,103.0,City,Credit Card
+274,Plane,260.0,City,Debit Card
+275,Bus,51.0,City,Debit Card
+276,Train,101.0,City,Debit Card
+277,Train,169.0,Suburbs,Mobile Payment
+278,Bike,80.0,City,Cash
+279,Bike,120.0,City,Debit Card
+280,Train,153.0,City,Debit Card
+281,Bus,16.0,Rural,Credit Card
+282,Bike,98.0,Rural,Cash
+283,Bus,129.0,Suburbs,Credit Card
+284,Train,13.0,Rural,Debit Card
+285,Bus,9.0,City,Cash
+286,Plane,13.0,Suburbs,Credit Card
+287,Bus,212.0,Suburbs,Mobile Payment
+288,Car,64.0,Suburbs,Cash
+289,Bike,95.0,City,Debit Card
+290,Bike,124.0,City,Debit Card
+291,Train,165.0,City,Cash
+292,Car,138.0,City,Cash
+293,Plane,161.0,Rural,Debit Card
+294,Bike,156.0,City,Credit Card
+295,Bus,44.0,Suburbs,Cash
+296,Train,152.0,Suburbs,Mobile Payment
+297,Plane,130.0,Suburbs,Mobile Payment
+298,Train,91.0,Suburbs,Cash
+299,Bike,165.0,Suburbs,Credit Card
+300,Car,93.0,Rural,Cash
+301,Train,160.0,Rural,Mobile Payment
+302,Train,84.0,Suburbs,Cash
+303,Bus,116.0,City,Credit Card
+304,Bus,124.0,Suburbs,Credit Card
+305,Plane,36.0,Rural,Mobile Payment
+306,Plane,243.0,Suburbs,Cash
+307,Train,17.0,Rural,Credit Card
+308,Bus,86.0,Rural,Cash
+309,Bike,154.0,Suburbs,Credit Card
+310,Train,119.0,City,Cash
+311,Train,25.0,Rural,Mobile Payment
+312,Bike,111.0,City,Debit Card
+313,Train,127.0,Suburbs,Debit Card
+314,Train,172.0,Rural,Debit Card
+315,Bus,172.0,Suburbs,Credit Card
+316,Train,182.0,Suburbs,Mobile Payment
+317,Bus,124.0,City,Debit Card
+318,Plane,211.0,Suburbs,Mobile Payment
+319,Plane,161.0,Suburbs,Credit Card
+320,Train,60.0,Suburbs,Cash
+321,Car,26.0,City,Mobile Payment
+322,Bus,118.0,City,Mobile Payment
+323,Car,59.0,Suburbs,Cash
+324,Train,135.0,Suburbs,Debit Card
+325,Car,26.0,Rural,Cash
+326,Bus,60.0,City,Debit Card
+327,Bus,143.0,Rural,Credit Card
+328,Plane,144.0,Suburbs,Debit Card
+329,Bike,63.0,City,Cash
+330,Bike,112.0,City,Mobile Payment
+331,Car,52.0,Rural,Debit Card
+332,Bus,88.0,Rural,Credit Card
+333,Bike,120.0,Suburbs,Debit Card
+334,Bike,258.0,Suburbs,Mobile Payment
+335,Bike,281.0,Suburbs,Cash
+336,Bike,188.0,Suburbs,Cash
+337,Car,98.0,Suburbs,Debit Card
+338,Train,252.0,Rural,Cash
+339,Plane,169.0,Rural,Cash
+340,Bus,78.0,Suburbs,Debit Card
+341,Bike,143.0,Rural,Cash
+342,Bike,174.0,City,Mobile Payment
+343,Bus,12.0,Suburbs,Cash
+344,Bus,135.0,Rural,Credit Card
+345,Bike,118.0,Rural,Debit Card
+346,Car,93.0,Rural,Debit Card
+347,Bus,136.0,City,Cash
+348,Plane,153.0,City,Mobile Payment
+349,Car,128.0,Suburbs,Debit Card
+350,Train,156.0,City,Cash
+351,Bike,126.0,Rural,Credit Card
+352,Bike,129.0,Suburbs,Mobile Payment
+353,Bus,94.0,City,Mobile Payment
+354,Bike,121.0,Rural,Credit Card
+355,Train,153.0,City,Cash
+356,Plane,111.0,Suburbs,Mobile Payment
+357,Train,112.0,Rural,Debit Card
+358,Bus,93.0,Suburbs,Credit Card
+359,Bike,241.0,Rural,Mobile Payment
+360,Bike,58.0,Suburbs,Debit Card
+361,Bus,37.0,Rural,Debit Card
+362,Bike,73.0,Suburbs,Debit Card
+363,Car,88.0,Suburbs,Credit Card
+364,Car,115.0,City,Mobile Payment
+365,Bus,24.0,Rural,Credit Card
+366,Train,44.0,Rural,Credit Card
+367,Train,90.0,Suburbs,Credit Card
+368,Plane,55.0,City,Credit Card
+369,Plane,103.0,Suburbs,Debit Card
+370,Bus,161.0,Rural,Debit Card
+371,Bus,125.0,City,Credit Card
+372,Train,121.0,Rural,Mobile Payment
+373,Train,161.0,Rural,Mobile Payment
+374,Plane,152.0,Rural,Debit Card
+375,Train,137.0,Suburbs,Mobile Payment
+376,Plane,117.0,City,Debit Card
+377,Train,250.0,City,Cash
+378,Bus,49.0,Rural,Debit Card
+379,Car,68.0,Rural,Mobile Payment
+380,Bike,203.0,Rural,Cash
+381,Plane,176.0,City,Credit Card
+382,Bus,70.0,City,Cash
+383,Bus,108.0,City,Mobile Payment
+384,Train,131.0,City,Debit Card
+385,Train,160.0,Suburbs,Cash
+386,Bike,122.0,Suburbs,Debit Card
+387,Bus,65.0,Suburbs,Cash
+388,Plane,204.0,Suburbs,Cash
+389,Bike,232.0,Rural,Mobile Payment
+390,Bus,112.0,Rural,Mobile Payment
+391,Train,168.0,City,Debit Card
+392,Bus,128.0,Suburbs,Cash
+393,Car,46.0,Rural,Credit Card
+394,Bus,58.0,City,Cash
+395,Car,198.0,Suburbs,Credit Card
+396,Train,141.0,Rural,Cash
+397,Bus,98.0,City,Debit Card
+398,Plane,186.0,Suburbs,Credit Card
+399,Bike,126.0,City,Credit Card
+400,Train,206.0,City,Cash
+401,Plane,139.0,Suburbs,Cash
+402,Bike,104.0,Suburbs,Debit Card
+403,Bike,155.0,City,Credit Card
+404,Bike,50.0,City,Credit Card
+405,Car,148.0,Rural,Cash
+406,Bus,124.0,Rural,Mobile Payment
+407,Plane,203.0,Suburbs,Mobile Payment
+408,Bike,174.0,Suburbs,Credit Card
+409,Plane,160.0,Rural,Mobile Payment
+410,Car,151.0,Suburbs,Mobile Payment
+411,Bus,151.0,Suburbs,Debit Card
+412,Plane,140.0,Rural,Cash
+413,Plane,114.0,City,Cash
+414,Plane,80.0,Suburbs,Mobile Payment
+415,Car,52.0,Suburbs,Cash
+416,Train,48.0,Suburbs,Mobile Payment
+417,Bus,87.0,City,Credit Card
+418,Bus,36.0,City,Cash
+419,Car,48.0,Suburbs,Cash
+420,Car,130.0,Rural,Debit Card
+421,Plane,125.0,City,Credit Card
+422,Train,116.0,City,Credit Card
+423,Train,106.0,Suburbs,Credit Card
+424,Plane,80.0,Suburbs,Mobile Payment
+425,Bike,196.0,Rural,Debit Card
+426,Plane,167.0,Suburbs,Credit Card
+427,Bike,74.0,Suburbs,Mobile Payment
+428,Bike,125.0,Suburbs,Debit Card
+429,Car,137.0,City,Debit Card
+430,Train,120.0,Suburbs,Cash
+431,Bus,141.0,Suburbs,Mobile Payment
+432,Train,174.0,Suburbs,Debit Card
+433,Plane,94.0,Suburbs,Credit Card
+434,Car,78.0,Suburbs,Cash
+435,Plane,54.0,Suburbs,Cash
+436,Plane,107.0,Rural,Credit Card
+437,Bus,224.0,Rural,Cash
+438,Plane,172.0,City,Credit Card
+439,Bus,62.0,Suburbs,Credit Card
+440,Bike,258.0,Rural,Debit Card
+441,Bike,82.0,Suburbs,Debit Card
+442,Car,122.0,City,Debit Card
+443,Bus,221.0,Rural,Credit Card
+444,Bike,26.0,Suburbs,Debit Card
+445,Bus,90.0,City,Credit Card
+446,Bus,143.0,Suburbs,Mobile Payment
+447,Train,70.0,Rural,Credit Card
+448,Train,126.0,Rural,Mobile Payment
+449,Bike,29.0,City,Credit Card
+450,Bus,61.0,Suburbs,Credit Card
+451,Plane,70.0,Rural,Mobile Payment
+452,Plane,196.0,City,Mobile Payment
+453,Bike,167.0,Rural,Mobile Payment
+454,Car,56.0,Rural,Cash
+455,Bike,159.0,Suburbs,Credit Card
+456,Car,76.0,Rural,Cash
+457,Plane,247.0,Suburbs,Debit Card
+458,Bus,216.0,Suburbs,Cash
+459,Plane,130.0,Suburbs,Cash
+460,Bike,120.0,City,Debit Card
+461,Bus,130.0,Rural,Cash
+462,Train,108.0,Suburbs,Mobile Payment
+463,Bus,41.0,City,Cash
+464,Bus,17.0,Rural,Mobile Payment
+465,Train,43.0,Rural,Mobile Payment
+466,Train,85.0,Rural,Credit Card
+467,Plane,97.0,Rural,Mobile Payment
+468,Plane,108.0,Suburbs,Debit Card
+469,Bus,73.0,Suburbs,Cash
+470,Bike,133.0,Suburbs,Cash
+471,Train,94.0,Rural,Mobile Payment
+472,Car,167.0,Suburbs,Mobile Payment
+473,Bike,142.0,City,Debit Card
+474,Bike,94.0,Suburbs,Credit Card
+475,Bike,101.0,City,Mobile Payment
+476,Bus,240.0,Rural,Debit Card
+477,Train,158.0,City,Mobile Payment
+478,Plane,90.0,Rural,Debit Card
+479,Train,134.0,Suburbs,Debit Card
+480,Plane,183.0,City,Credit Card
+481,Bus,143.0,Rural,Mobile Payment
+482,Bus,146.0,Suburbs,Cash
+483,Bike,72.0,Suburbs,Cash
+484,Car,155.0,Rural,Credit Card
+485,Train,113.0,Rural,Cash
+486,Train,57.0,Suburbs,Mobile Payment
+487,Car,261.0,Rural,Mobile Payment
+488,Train,69.0,City,Credit Card
+489,Car,144.0,Suburbs,Cash
+490,Train,153.0,Suburbs,Credit Card
+491,Bike,73.0,Suburbs,Mobile Payment
+492,Train,113.0,City,Cash
+493,Train,62.0,Rural,Mobile Payment
+494,Train,114.0,Suburbs,Mobile Payment
+495,Bus,83.0,City,Credit Card
+496,Train,38.0,City,Debit Card
+497,Plane,136.0,Rural,Credit Card
+498,Plane,216.0,Rural,Credit Card
+499,Car,109.0,Suburbs,Debit Card
+500,Train,140.0,City,Debit Card
+501,Car,125.0,City,Mobile Payment
+502,Bike,298.0,City,Mobile Payment
+503,Bike,147.0,Rural,Credit Card
+504,Plane,17.0,City,Credit Card
+505,Bike,110.0,Rural,Debit Card
+506,Bus,77.0,Suburbs,Cash
+507,Plane,107.0,Rural,Cash
+508,Plane,111.0,Rural,Debit Card
+509,Train,241.0,Suburbs,Debit Card
+510,Train,284.0,Suburbs,Debit Card
+511,Plane,117.0,Suburbs,Credit Card
+512,Bike,234.0,City,Cash
+513,Car,86.0,Rural,Cash
+514,Plane,162.0,Suburbs,Credit Card
+515,Plane,23.0,Rural,Debit Card
+516,Car,123.0,Rural,Mobile Payment
+517,Plane,135.0,Rural,Cash
+518,Car,92.0,City,Credit Card
+519,Bus,137.0,City,Mobile Payment
+520,Bus,137.0,City,Debit Card
+521,Car,147.0,Rural,Debit Card
+522,Bus,178.0,Suburbs,Mobile Payment
+523,Car,118.0,Suburbs,Mobile Payment
+524,Train,149.0,City,Debit Card
+525,Car,185.0,City,Credit Card
+526,Plane,58.0,Suburbs,Cash
+527,Bus,183.0,Rural,Debit Card
+528,Train,55.0,City,Cash
+529,Bus,105.0,Rural,Credit Card
+530,Car,79.0,Suburbs,Debit Card
+531,Train,148.0,Rural,Mobile Payment
+532,Bike,221.0,City,Debit Card
+533,Plane,85.0,Suburbs,Credit Card
+534,Train,75.0,Rural,Debit Card
+535,Car,34.0,Rural,Mobile Payment
+536,Car,86.0,City,Mobile Payment
+537,Car,103.0,Suburbs,Cash
+538,Train,111.0,City,Credit Card
+539,Bus,188.0,City,Cash
+540,Bike,167.0,City,Cash
+541,Train,129.0,Suburbs,Mobile Payment
+542,Train,88.0,Suburbs,Credit Card
+543,Bike,216.0,Suburbs,Cash
+544,Bike,107.0,City,Credit Card
+545,Car,147.0,Rural,Debit Card
+546,Car,81.0,City,Debit Card
+547,Bike,174.0,Suburbs,Debit Card
+548,Car,23.0,Rural,Credit Card
+549,Bus,139.0,Rural,Cash
+550,Car,76.0,Rural,Credit Card
+551,Car,93.0,City,Debit Card
+552,Plane,134.0,Rural,Debit Card
+553,Bike,143.0,Suburbs,Credit Card
+554,Train,247.0,City,Debit Card
+555,Car,171.0,Rural,Mobile Payment
+556,Car,202.0,City,Debit Card
+557,Car,114.0,Rural,Cash
+558,Train,139.0,Rural,Credit Card
+559,Bike,123.0,Rural,Credit Card
+560,Plane,70.0,City,Mobile Payment
+561,Plane,179.0,Rural,Mobile Payment
+562,Car,124.0,City,Mobile Payment
+563,Car,181.0,Suburbs,Credit Card
+564,Bike,91.0,Rural,Credit Card
+565,Train,268.0,Rural,Mobile Payment
+566,Train,50.0,Suburbs,Cash
+567,Bike,148.0,Rural,Credit Card
+568,Bus,5.0,City,Debit Card
+569,Car,176.0,Rural,Debit Card
+570,Train,139.0,Suburbs,Debit Card
+571,Bus,110.0,City,Credit Card
+572,Car,132.0,City,Cash
+573,Train,93.0,Suburbs,Credit Card
+574,Car,25.0,City,Credit Card
+575,Bike,138.0,Rural,Credit Card
+576,Car,92.0,Rural,Cash
+577,Bus,149.0,Rural,Credit Card
+578,Plane,144.0,Rural,Mobile Payment
+579,Bike,81.0,Rural,Debit Card
+580,Bus,117.0,Rural,Cash
+581,Car,113.0,Suburbs,Mobile Payment
+582,Bike,98.0,Suburbs,Debit Card
+583,Bus,23.0,Suburbs,Mobile Payment
+584,Train,129.0,Suburbs,Debit Card
+585,Plane,81.0,Suburbs,Credit Card
+586,Bike,118.0,Rural,Cash
+587,Bus,84.0,City,Debit Card
+588,Bus,26.0,City,Debit Card
+589,Plane,182.0,Suburbs,Cash
+590,Bike,0.0,City,Cash
+591,Plane,114.0,City,Debit Card
+592,Train,198.0,Rural,Debit Card
+593,Plane,141.0,Rural,Debit Card
+594,Bike,101.0,City,Mobile Payment
+595,Plane,133.0,Rural,Mobile Payment
+596,Bike,125.0,Suburbs,Cash
+597,Bus,136.0,Rural,Credit Card
+598,Train,180.0,City,Credit Card
+599,Plane,106.0,City,Credit Card
+600,Bus,167.0,City,Mobile Payment
+601,Train,147.0,City,Mobile Payment
+602,Train,64.0,City,Debit Card
+603,Plane,185.0,Rural,Mobile Payment
+604,Bus,189.0,Rural,Mobile Payment
+605,Plane,190.0,Suburbs,Mobile Payment
+606,Plane,196.0,City,Debit Card
+607,Car,63.0,City,Debit Card
+608,Bike,102.0,City,Debit Card
+609,Bike,121.0,City,Cash
+610,Car,9.0,City,Credit Card
+611,Bike,124.0,City,Debit Card
+612,Car,31.0,Suburbs,Debit Card
+613,Plane,54.0,Suburbs,Cash
+614,Train,197.0,Suburbs,Mobile Payment
+615,Train,239.0,Suburbs,Credit Card
+616,Plane,170.0,City,Debit Card
+617,Plane,109.0,Suburbs,Mobile Payment
+618,Train,192.0,Suburbs,Credit Card
+619,Bus,203.0,Suburbs,Debit Card
+620,Car,122.0,Rural,Debit Card
+621,Plane,151.0,Suburbs,Cash
+622,Train,59.0,Rural,Debit Card
+623,Car,113.0,Rural,Cash
+624,Bike,57.0,Rural,Cash
+625,Car,96.0,Suburbs,Mobile Payment
+626,Train,63.0,Suburbs,Mobile Payment
+627,Car,103.0,Rural,Mobile Payment
+628,Bike,128.0,City,Debit Card
+629,Plane,71.0,Rural,Debit Card
+630,Plane,180.0,City,Debit Card
+631,Bike,103.0,Rural,Credit Card
+632,Bus,72.0,Suburbs,Credit Card
+633,Bike,129.0,City,Mobile Payment
+634,Car,102.0,City,Mobile Payment
+635,Car,73.0,City,Mobile Payment
+636,Bike,62.0,Suburbs,Cash
+637,Plane,79.0,City,Credit Card
+638,Bike,192.0,Rural,Credit Card
+639,Bike,19.0,City,Debit Card
+640,Train,108.0,City,Mobile Payment
+641,Bus,151.0,Rural,Mobile Payment
+642,Plane,179.0,Suburbs,Credit Card
+643,Bus,113.0,Suburbs,Mobile Payment
+644,Plane,166.0,City,Debit Card
+645,Plane,80.0,Suburbs,Cash
+646,Car,38.0,City,Cash
+647,Bus,75.0,Suburbs,Mobile Payment
+648,Car,117.0,Suburbs,Mobile Payment
+649,Bus,105.0,Rural,Debit Card
+650,Bike,39.0,Suburbs,Mobile Payment
+651,Bus,88.0,Suburbs,Credit Card
+652,Plane,14.0,Suburbs,Mobile Payment
+653,Bus,185.0,Rural,Credit Card
+654,Plane,64.0,Rural,Debit Card
+655,Train,80.0,Suburbs,Mobile Payment
+656,Train,189.0,Rural,Cash
+657,Plane,82.0,Rural,Cash
+658,Train,156.0,Suburbs,Cash
+659,Bus,117.0,Suburbs,Mobile Payment
+660,Plane,237.0,City,Mobile Payment
+661,Plane,129.0,Rural,Mobile Payment
+662,Train,50.0,Rural,Mobile Payment
+663,Plane,105.0,City,Credit Card
+664,Plane,71.0,City,Debit Card
+665,Car,124.0,City,Credit Card
+666,Bus,226.0,Rural,Mobile Payment
+667,Bus,39.0,Suburbs,Credit Card
+668,Bike,144.0,City,Cash
+669,Train,126.0,Rural,Credit Card
+670,Train,110.0,Rural,Mobile Payment
+671,Bus,91.0,Suburbs,Credit Card
+672,Bus,245.0,City,Mobile Payment
+673,Plane,55.0,Suburbs,Cash
+674,Car,59.0,Suburbs,Mobile Payment
+675,Bus,34.0,Rural,Debit Card
+676,Car,142.0,City,Mobile Payment
+677,Train,57.0,Suburbs,Cash
+678,Plane,171.0,Suburbs,Debit Card
+679,Car,68.0,Suburbs,Mobile Payment
+680,Train,47.0,Rural,Cash
+681,Bus,159.0,City,Debit Card
+682,Plane,98.0,City,Credit Card
+683,Bus,19.0,City,Credit Card
+684,Bus,188.0,City,Mobile Payment
+685,Car,76.0,City,Mobile Payment
+686,Train,69.0,City,Mobile Payment
+687,Plane,70.0,Suburbs,Debit Card
+688,Bus,145.0,Rural,Mobile Payment
+689,Train,136.0,City,Cash
+690,Car,59.0,Suburbs,Cash
+691,Train,198.0,City,Cash
+692,Train,147.0,Suburbs,Credit Card
+693,Bike,162.0,City,Debit Card
+694,Plane,106.0,Suburbs,Mobile Payment
+695,Bus,8.0,Suburbs,Credit Card
+696,Car,23.0,Rural,Mobile Payment
+697,Car,134.0,Suburbs,Mobile Payment
+698,Bus,87.0,Rural,Debit Card
+699,Plane,102.0,City,Credit Card
+700,Train,134.0,Suburbs,Credit Card
+701,Plane,192.0,Rural,Mobile Payment
+702,Train,203.0,City,Mobile Payment
+703,Plane,124.0,Suburbs,Debit Card
+704,Bus,162.0,City,Cash
+705,Plane,216.0,Rural,Cash
+706,Plane,47.0,Rural,Cash
+707,Car,140.0,Rural,Cash
+708,Car,293.0,City,Mobile Payment
+709,Car,147.0,Rural,Debit Card
+710,Car,147.0,Suburbs,Cash
+711,Plane,10.0,Suburbs,Credit Card
+712,Plane,8.0,Suburbs,Debit Card
+713,Bus,69.0,Suburbs,Mobile Payment
+714,Train,100.0,Suburbs,Cash
+715,Car,103.0,Suburbs,Credit Card
+716,Train,192.0,Rural,Credit Card
+717,Car,192.0,Suburbs,Credit Card
+718,Plane,111.0,Rural,Mobile Payment
+719,Bus,146.0,City,Mobile Payment
+720,Train,6.0,Suburbs,Debit Card
+721,Car,63.0,City,Credit Card
+722,Bike,95.0,Rural,Cash
+723,Bus,77.0,Suburbs,Mobile Payment
+724,Plane,181.0,Rural,Credit Card
+725,Plane,99.0,Rural,Credit Card
+726,Plane,83.0,Rural,Debit Card
+727,Bike,122.0,City,Debit Card
+728,Bus,116.0,City,Credit Card
+729,Train,179.0,Rural,Mobile Payment
+730,Bus,152.0,Suburbs,Credit Card
+731,Bus,113.0,Rural,Debit Card
+732,Car,40.0,Rural,Credit Card
+733,Bus,160.0,Rural,Mobile Payment
+734,Train,103.0,Rural,Cash
+735,Train,115.0,City,Mobile Payment
+736,Bike,80.0,Suburbs,Cash
+737,Plane,83.0,City,Debit Card
+738,Bike,87.0,Suburbs,Mobile Payment
+739,Train,99.0,Rural,Credit Card
+740,Car,161.0,Rural,Cash
+741,Car,143.0,Rural,Debit Card
+742,Plane,122.0,Suburbs,Debit Card
+743,Car,149.0,City,Cash
+744,Bus,65.0,Suburbs,Cash
+745,Train,166.0,Suburbs,Credit Card
+746,Bike,28.0,City,Cash
+747,Train,248.0,Rural,Credit Card
+748,Plane,95.0,City,Mobile Payment
+749,Car,87.0,Rural,Mobile Payment
+750,Bike,130.0,City,Debit Card
+751,Car,57.0,Rural,Cash
+752,Bus,224.0,City,Debit Card
+753,Bus,30.0,Rural,Cash
+754,Train,152.0,Rural,Mobile Payment
+755,Train,123.0,City,Credit Card
+756,Car,64.0,Suburbs,Debit Card
+757,Car,173.0,Rural,Cash
+758,Plane,118.0,Suburbs,Debit Card
+759,Bus,143.0,City,Mobile Payment
+760,Car,64.0,Suburbs,Credit Card
+761,Plane,177.0,City,Mobile Payment
+762,Train,15.0,Rural,Cash
+763,Bus,117.0,City,Credit Card
+764,Plane,81.0,City,Debit Card
+765,Bike,56.0,City,Credit Card
+766,Train,4.0,City,Mobile Payment
+767,Train,139.0,City,Debit Card
+768,Bus,55.0,City,Cash
+769,Bike,132.0,Suburbs,Mobile Payment
+770,Bus,120.0,Rural,Mobile Payment
+771,Bus,95.0,Rural,Debit Card
+772,Car,149.0,Rural,Credit Card
+773,Train,140.0,Rural,Credit Card
+774,Bike,152.0,Rural,Debit Card
+775,Bus,72.0,Rural,Mobile Payment
+776,Plane,157.0,Suburbs,Credit Card
+777,Bike,139.0,Suburbs,Mobile Payment
+778,Plane,52.0,Rural,Cash
+779,Car,120.0,City,Credit Card
+780,Plane,36.0,Suburbs,Credit Card
+781,Car,157.0,Rural,Debit Card
+782,Car,217.0,City,Credit Card
+783,Car,195.0,City,Mobile Payment
+784,Car,81.0,City,Mobile Payment
+785,Plane,102.0,Suburbs,Mobile Payment
+786,Train,154.0,City,Mobile Payment
+787,Train,166.0,Rural,Debit Card
+788,Train,217.0,Suburbs,Debit Card
+789,Train,88.0,City,Mobile Payment
+790,Train,110.0,Rural,Mobile Payment
+791,Train,157.0,Rural,Mobile Payment
+792,Train,24.0,Suburbs,Credit Card
+793,Car,62.0,Suburbs,Credit Card
+794,Car,58.0,City,Credit Card
+795,Train,109.0,City,Cash
+796,Bike,94.0,Suburbs,Debit Card
+797,Train,103.0,City,Credit Card
+798,Car,70.0,Suburbs,Mobile Payment
+799,Car,27.0,Rural,Debit Card
+800,Train,155.0,Suburbs,Mobile Payment
+801,Bike,223.0,City,Credit Card
+802,Plane,139.0,Suburbs,Credit Card
+803,Bus,228.0,City,Debit Card
+804,Train,131.0,City,Mobile Payment
+805,Plane,141.0,City,Mobile Payment
+806,Bike,123.0,City,Debit Card
+807,Bus,91.0,Rural,Cash
+808,Bike,208.0,Rural,Debit Card
+809,Bus,18.0,Suburbs,Credit Card
+810,Bus,127.0,Rural,Cash
+811,Train,182.0,Rural,Cash
+812,Plane,218.0,Rural,Credit Card
+813,Bike,159.0,City,Cash
+814,Train,87.0,City,Debit Card
+815,Car,135.0,City,Cash
+816,Plane,31.0,Suburbs,Cash
+817,Bus,164.0,Suburbs,Mobile Payment
+818,Car,5.0,City,Debit Card
+819,Train,86.0,Rural,Debit Card
+820,Car,231.0,Rural,Credit Card
+821,Bus,140.0,Rural,Credit Card
+822,Bike,84.0,Rural,Credit Card
+823,Plane,67.0,City,Credit Card
+824,Bus,139.0,City,Credit Card
+825,Car,72.0,City,Credit Card
+826,Plane,105.0,City,Mobile Payment
+827,Train,123.0,Rural,Debit Card
+828,Plane,97.0,City,Credit Card
+829,Bus,85.0,Rural,Mobile Payment
+830,Bus,115.0,Suburbs,Cash
+831,Car,117.0,City,Cash
+832,Bike,129.0,Rural,Credit Card
+833,Bus,117.0,Rural,Credit Card
+834,Car,34.0,Rural,Mobile Payment
+835,Bike,135.0,Suburbs,Cash
+836,Train,93.0,Rural,Debit Card
+837,Train,247.0,City,Credit Card
+838,Car,145.0,Suburbs,Credit Card
+839,Car,195.0,Suburbs,Debit Card
+840,Bus,126.0,Suburbs,Credit Card
+841,Car,166.0,City,Credit Card
+842,Plane,98.0,Suburbs,Cash
+843,Train,162.0,Rural,Debit Card
+844,Plane,124.0,City,Cash
+845,Train,79.0,Rural,Cash
+846,Bike,159.0,Rural,Mobile Payment
+847,Car,148.0,Suburbs,Cash
+848,Bike,131.0,City,Debit Card
+849,Train,68.0,City,Credit Card
+850,Car,115.0,City,Credit Card
+851,Plane,137.0,Suburbs,Cash
+852,Plane,136.0,Rural,Debit Card
+853,Plane,80.0,Suburbs,Debit Card
+854,Plane,84.0,Rural,Mobile Payment
+855,Bike,44.0,Suburbs,Credit Card
+856,Train,47.0,Rural,Cash
+857,Bus,30.0,Rural,Credit Card
+858,Train,239.0,Suburbs,Cash
+859,Plane,168.0,Rural,Cash
+860,Bus,160.0,Suburbs,Mobile Payment
+861,Train,232.0,City,Mobile Payment
+862,Bike,6.0,Suburbs,Mobile Payment
+863,Car,129.0,City,Mobile Payment
+864,Plane,50.0,Suburbs,Debit Card
+865,Bus,128.0,Suburbs,Debit Card
+866,Plane,66.0,Suburbs,Debit Card
+867,Car,204.0,Rural,Credit Card
+868,Bike,194.0,Rural,Credit Card
+869,Plane,125.0,Suburbs,Debit Card
+870,Car,99.0,Suburbs,Debit Card
+871,Bus,36.0,City,Credit Card
+872,Car,40.0,City,Mobile Payment
+873,Car,26.0,City,Debit Card
+874,Bike,114.0,Suburbs,Credit Card
+875,Bus,119.0,City,Mobile Payment
+876,Bike,85.0,Rural,Debit Card
+877,Car,217.0,Suburbs,Debit Card
+878,Bus,133.0,Rural,Cash
+879,Plane,73.0,City,Debit Card
+880,Car,155.0,City,Mobile Payment
+881,Bike,130.0,City,Credit Card
+882,Bus,52.0,Rural,Cash
+883,Train,139.0,City,Mobile Payment
+884,Plane,190.0,Suburbs,Mobile Payment
+885,Bus,9.0,City,Cash
+886,Plane,20.0,City,Mobile Payment
+887,Train,146.0,Suburbs,Credit Card
+888,Bus,30.0,Rural,Credit Card
+889,Train,107.0,City,Mobile Payment
+890,Plane,159.0,Suburbs,Mobile Payment
+891,Train,107.0,Rural,Mobile Payment
+892,Bus,67.0,City,Debit Card
+893,Plane,80.0,City,Debit Card
+894,Bus,56.0,City,Debit Card
+895,Plane,142.0,Suburbs,Mobile Payment
+896,Bike,147.0,Rural,Debit Card
+897,Car,127.0,Suburbs,Credit Card
+898,Train,139.0,Rural,Cash
+899,Bike,102.0,Rural,Mobile Payment
+900,Bus,138.0,Suburbs,Credit Card
+901,Train,39.0,Rural,Mobile Payment
+902,Train,117.0,Suburbs,Cash
+903,Bike,31.0,Suburbs,Debit Card
+904,Train,124.0,Suburbs,Credit Card
+905,Bus,34.0,Suburbs,Debit Card
+906,Car,99.0,Suburbs,Debit Card
+907,Bus,86.0,Suburbs,Cash
+908,Plane,233.0,Rural,Mobile Payment
+909,Bike,86.0,City,Mobile Payment
+910,Bike,178.0,Suburbs,Debit Card
+911,Car,247.0,Suburbs,Debit Card
+912,Train,88.0,City,Credit Card
+913,Car,183.0,City,Credit Card
+914,Bus,24.0,Suburbs,Debit Card
+915,Bike,233.0,Rural,Cash
+916,Car,158.0,City,Credit Card
+917,Bus,192.0,Rural,Cash
+918,Plane,105.0,Suburbs,Credit Card
+919,Bike,139.0,City,Credit Card
+920,Bike,53.0,Suburbs,Cash
+921,Train,11.0,Rural,Credit Card
+922,Bike,193.0,Suburbs,Mobile Payment
+923,Car,95.0,City,Credit Card
+924,Bike,71.0,City,Cash
+925,Train,211.0,Rural,Cash
+926,Bike,131.0,Suburbs,Credit Card
+927,Bus,100.0,City,Credit Card
+928,Bus,168.0,Suburbs,Debit Card
+929,Bike,196.0,City,Credit Card
+930,Plane,227.0,City,Credit Card
+931,Bus,22.0,Suburbs,Credit Card
+932,Bus,199.0,City,Debit Card
+933,Plane,120.0,Suburbs,Debit Card
+934,Plane,129.0,Suburbs,Mobile Payment
+935,Train,189.0,Suburbs,Cash
+936,Car,90.0,Suburbs,Credit Card
+937,Car,159.0,Rural,Cash
+938,Bike,211.0,Suburbs,Mobile Payment
+939,Train,129.0,Suburbs,Debit Card
+940,Car,63.0,Rural,Credit Card
+941,Bike,120.0,City,Debit Card
+942,Car,189.0,City,Debit Card
+943,Bus,106.0,Rural,Debit Card
+944,Plane,133.0,Rural,Cash
+945,Train,90.0,City,Debit Card
+946,Train,124.0,Suburbs,Cash
+947,Train,172.0,City,Debit Card
+948,Plane,53.0,City,Credit Card
+949,Bus,135.0,Suburbs,Debit Card
+950,Bike,219.0,Rural,Credit Card
+951,Bus,168.0,City,Cash
+952,Bike,138.0,Rural,Credit Card
+953,Bike,119.0,City,Mobile Payment
+954,Plane,128.0,Suburbs,Credit Card
+955,Train,86.0,Suburbs,Cash
+956,Bike,108.0,City,Credit Card
+957,Car,25.0,Suburbs,Cash
+958,Train,316.0,Suburbs,Credit Card
+959,Train,148.0,Rural,Mobile Payment
+960,Train,165.0,Suburbs,Debit Card
+961,Bike,56.0,Suburbs,Credit Card
+962,Train,171.0,City,Debit Card
+963,Bus,161.0,City,Debit Card
+964,Train,130.0,Suburbs,Mobile Payment
+965,Car,88.0,City,Credit Card
+966,Bus,214.0,Rural,Cash
+967,Bike,60.0,City,Mobile Payment
+968,Bike,69.0,Rural,Mobile Payment
+969,Plane,110.0,City,Mobile Payment
+970,Bike,101.0,Rural,Mobile Payment
+971,Plane,84.0,Rural,Debit Card
+972,Bus,54.0,City,Cash
+973,Car,87.0,Rural,Credit Card
+974,Plane,145.0,City,Mobile Payment
+975,Plane,86.0,City,Debit Card
+976,Bus,160.0,Rural,Debit Card
+977,Bus,199.0,Rural,Debit Card
+978,Train,3.0,City,Cash
+979,Train,88.0,Rural,Credit Card
+980,Car,91.0,Suburbs,Credit Card
+981,Plane,39.0,Suburbs,Cash
+982,Bike,116.0,City,Mobile Payment
+983,Train,194.0,City,Debit Card
+984,Car,93.0,Rural,Cash
+985,Bus,35.0,City,Cash
+986,Bike,70.0,Suburbs,Cash
+987,Bus,73.0,City,Mobile Payment
+988,Train,171.0,Rural,Debit Card
+989,Plane,171.0,City,Cash
+990,Bus,30.0,Rural,Cash
+991,Train,137.0,City,Debit Card
+992,Car,131.0,City,Credit Card
+993,Plane,108.0,City,Cash
+994,Plane,36.0,Rural,Debit Card
+995,Bus,75.0,Suburbs,Debit Card
+996,Plane,59.0,City,Mobile Payment
+997,Bike,125.0,City,Cash
+998,Car,122.0,Rural,Mobile Payment
+999,Bus,175.0,City,Debit Card

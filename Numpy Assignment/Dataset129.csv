@@ -1,0 +1,801 @@
+id,artist,gense,time_listening(s)
+0,Nirvana,Hip Hop,557
+1,Coldplay,Hip Hop,2113
+2,Coldplay,R&B,3421
+3,Guns N' Roses,Alternative,1832
+4,Rihanna,Electronic,1671
+5,Taylor Swift,Electronic,482
+6,Kendrick Lamar,Alternative,2157
+7,Zara Larsson,R&B,1091
+8,The Weeknd,Electronic,2947
+9,Beyoncé,Hip Hop,340
+10,Adele,Electronic,2589
+11,Rihanna,R&B,531
+12,Post Malone,Alternative,1549
+13,John Mayer,Electronic,859
+14,Adele,R&B,721
+15,Oasis,R&B,381
+16,Adele,Hip Hop,1859
+17,Post Malone,Hip Hop,351
+18,Zara Larsson,Alternative,224
+19,Taylor Swift,Rock,1098
+20,Oasis,Alternative,2404
+21,Ed Sheeran,Pop,2191
+22,Adele,Rock,1782
+23,Queen,Electronic,3373
+24,Ed Sheeran,Pop,1282
+25,Rihanna,Alternative,1964
+26,X Ambassadors,Alternative,1919
+27,Drake,Hip Hop,3118
+28,Coldplay,Pop,22
+29,U2,Electronic,1048
+30,Hozier,Alternative,1705
+31,Coldplay,Alternative,2476
+32,U2,Electronic,1692
+33,Post Malone,Alternative,3517
+34,Young Thug,R&B,1454
+35,Queen,Pop,399
+36,Hozier,Alternative,969
+37,John Mayer,Indie,1018
+38,Drake,Electronic,3179
+39,U2,Indie,1222
+40,Guns N' Roses,Alternative,2932
+41,Beyoncé,Rock,554
+42,Vampire Weekend,R&B,986
+43,The Weeknd,Pop,2498
+44,Coldplay,R&B,1132
+45,Beyoncé,R&B,740
+46,Miley Cyrus,Hip Hop,2493
+47,Imagine Dragons,R&B,2353
+48,Drake,Rock,21
+49,Kendrick Lamar,Indie,2842
+50,Fleetwood Mac,Pop,2785
+51,Adele,Hip Hop,500
+52,Lana Del Rey,Indie,1911
+53,Coldplay,Alternative,779
+54,Kendrick Lamar,Alternative,3237
+55,The Weeknd,Hip Hop,3314
+56,Nirvana,Pop,3508
+57,Shawn Mendes,Hip Hop,3220
+58,Ed Sheeran,Hip Hop,2598
+59,Post Malone,Rock,1941
+60,Lana Del Rey,Alternative,1746
+61,Miley Cyrus,Alternative,1005
+62,U2,Indie,3240
+63,Guns N' Roses,Rock,446
+64,Nirvana,Alternative,1586
+65,Taylor Swift,Rock,2417
+66,Queen,Pop,723
+67,Guns N' Roses,Rock,818
+68,Oasis,Alternative,3021
+69,U2,R&B,3278
+70,Hozier,Hip Hop,389
+71,Lana Del Rey,Pop,917
+72,The Weeknd,R&B,2153
+73,Hozier,Pop,2934
+74,Beyoncé,Alternative,1849
+75,Lana Del Rey,Electronic,2569
+76,Fleetwood Mac,R&B,3432
+77,X Ambassadors,Rock,1885
+78,Zara Larsson,R&B,581
+79,Shawn Mendes,Hip Hop,1759
+80,U2,Alternative,57
+81,Young Thug,Pop,2346
+82,Rihanna,Pop,1712
+83,Miley Cyrus,Pop,2188
+84,Shawn Mendes,Pop,1757
+85,Rihanna,Electronic,2882
+86,Beyoncé,Pop,784
+87,Taylor Swift,Rock,999
+88,Miley Cyrus,Hip Hop,153
+89,Vampire Weekend,Rock,2285
+90,John Mayer,R&B,391
+91,Queen,Hip Hop,2128
+92,Young Thug,Rock,762
+93,Rihanna,Alternative,3055
+94,The Weeknd,Pop,2572
+95,Drake,Electronic,1961
+96,Drake,Alternative,2125
+97,Lana Del Rey,Electronic,813
+98,Vampire Weekend,Hip Hop,1039
+99,Zara Larsson,Hip Hop,1060
+100,Hozier,Indie,1690
+101,John Mayer,Pop,2159
+102,Coldplay,Pop,3534
+103,Drake,Hip Hop,2769
+104,Lana Del Rey,Indie,3357
+105,Drake,Electronic,2711
+106,Taylor Swift,Electronic,1941
+107,Young Thug,Pop,1159
+108,Guns N' Roses,Pop,539
+109,John Mayer,Alternative,46
+110,X Ambassadors,Rock,314
+111,Oasis,Indie,3422
+112,Guns N' Roses,R&B,1380
+113,Taylor Swift,Hip Hop,1107
+114,Zara Larsson,Rock,129
+115,Guns N' Roses,Alternative,1131
+116,Miley Cyrus,Hip Hop,1686
+117,The Weeknd,Hip Hop,1398
+118,Guns N' Roses,Alternative,1725
+119,Rihanna,R&B,781
+120,Oasis,R&B,2690
+121,Kendrick Lamar,Pop,319
+122,Drake,R&B,1455
+123,U2,Electronic,1586
+124,Drake,Pop,1415
+125,Beyoncé,Rock,1376
+126,Post Malone,R&B,2275
+127,Nirvana,Indie,880
+128,Queen,Pop,1996
+129,Fleetwood Mac,Indie,2704
+130,Imagine Dragons,Hip Hop,1117
+131,Nirvana,Alternative,3501
+132,The Weeknd,Rock,3388
+133,Oasis,Pop,2812
+134,Post Malone,Electronic,1897
+135,Imagine Dragons,Rock,569
+136,Zara Larsson,Indie,2222
+137,Nirvana,R&B,354
+138,Rihanna,R&B,1797
+139,Adele,Alternative,3182
+140,Drake,Electronic,1129
+141,Beyoncé,Indie,1108
+142,Taylor Swift,Rock,1295
+143,Ed Sheeran,Electronic,2483
+144,Hozier,Hip Hop,169
+145,Guns N' Roses,R&B,3396
+146,Beyoncé,Hip Hop,2929
+147,U2,Indie,1745
+148,Miley Cyrus,Alternative,2409
+149,Drake,Indie,1118
+150,Miley Cyrus,Pop,3524
+151,Taylor Swift,Alternative,3074
+152,Hozier,Alternative,2858
+153,Guns N' Roses,Indie,3514
+154,Young Thug,Alternative,3542
+155,Guns N' Roses,Hip Hop,785
+156,Nirvana,Rock,1973
+157,Miley Cyrus,Hip Hop,145
+158,U2,Alternative,2875
+159,Ed Sheeran,Rock,3070
+160,X Ambassadors,Pop,3042
+161,Queen,Indie,3481
+162,Adele,R&B,1770
+163,Zara Larsson,Alternative,1313
+164,Imagine Dragons,Indie,3223
+165,Young Thug,R&B,851
+166,U2,Rock,983
+167,Nirvana,Indie,2429
+168,Nirvana,Electronic,1130
+169,Imagine Dragons,R&B,660
+170,Oasis,Alternative,855
+171,Guns N' Roses,Alternative,2605
+172,Beyoncé,Hip Hop,1263
+173,Guns N' Roses,Electronic,2384
+174,Imagine Dragons,Indie,2705
+175,X Ambassadors,Indie,2424
+176,Kendrick Lamar,Hip Hop,2525
+177,Miley Cyrus,Hip Hop,2001
+178,Miley Cyrus,R&B,2351
+179,Zara Larsson,Indie,2842
+180,Kendrick Lamar,Rock,2045
+181,Rihanna,Rock,216
+182,Hozier,Pop,3370
+183,Nirvana,Electronic,1872
+184,Miley Cyrus,Hip Hop,3056
+185,Beyoncé,Rock,3395
+186,X Ambassadors,Alternative,1990
+187,John Mayer,Alternative,1132
+188,Oasis,Hip Hop,1649
+189,Young Thug,R&B,2065
+190,X Ambassadors,Alternative,2052
+191,Beyoncé,Pop,1536
+192,Drake,Alternative,37
+193,Rihanna,Electronic,885
+194,Young Thug,Electronic,2983
+195,Oasis,R&B,2712
+196,X Ambassadors,Pop,2640
+197,Fleetwood Mac,Indie,3291
+198,Beyoncé,Alternative,2639
+199,Shawn Mendes,Alternative,544
+200,Fleetwood Mac,Rock,1971
+201,Coldplay,Indie,2575
+202,Shawn Mendes,Electronic,3499
+203,Oasis,Hip Hop,560
+204,Nirvana,Hip Hop,699
+205,Zara Larsson,Electronic,1917
+206,Drake,Pop,1024
+207,Shawn Mendes,Alternative,2336
+208,Oasis,Alternative,1086
+209,The Weeknd,R&B,3161
+210,X Ambassadors,Alternative,1352
+211,John Mayer,Rock,1736
+212,Rihanna,Hip Hop,28
+213,Drake,Electronic,593
+214,Lana Del Rey,Alternative,3424
+215,Young Thug,Indie,1425
+216,Lana Del Rey,Hip Hop,1980
+217,Kendrick Lamar,R&B,2183
+218,Drake,R&B,919
+219,Nirvana,Indie,3383
+220,X Ambassadors,Indie,2372
+221,Zara Larsson,R&B,1747
+222,Zara Larsson,Pop,692
+223,Oasis,Pop,561
+224,Drake,Rock,1673
+225,Drake,Rock,515
+226,Oasis,Electronic,2634
+227,Vampire Weekend,R&B,2295
+228,The Weeknd,Rock,2847
+229,Queen,Pop,306
+230,Young Thug,Alternative,647
+231,X Ambassadors,Hip Hop,2356
+232,X Ambassadors,Hip Hop,3224
+233,Ed Sheeran,Pop,1817
+234,Ed Sheeran,Electronic,3418
+235,Fleetwood Mac,Rock,1243
+236,Queen,Rock,3511
+237,Young Thug,R&B,3452
+238,John Mayer,Hip Hop,3555
+239,Coldplay,Alternative,3425
+240,Fleetwood Mac,Electronic,247
+241,Beyoncé,Alternative,2458
+242,Fleetwood Mac,Electronic,3415
+243,John Mayer,R&B,269
+244,Post Malone,Alternative,2128
+245,Coldplay,Indie,1687
+246,Kendrick Lamar,Pop,1225
+247,Ed Sheeran,Hip Hop,880
+248,Drake,Electronic,967
+249,Queen,Electronic,1263
+250,Drake,Electronic,3500
+251,X Ambassadors,Indie,2610
+252,X Ambassadors,Rock,2491
+253,Coldplay,Pop,1672
+254,Fleetwood Mac,Pop,2939
+255,Rihanna,Alternative,2111
+256,X Ambassadors,Electronic,2814
+257,Vampire Weekend,Rock,1531
+258,Zara Larsson,Indie,3075
+259,Rihanna,Hip Hop,3348
+260,Coldplay,Pop,2109
+261,Nirvana,Indie,1711
+262,Kendrick Lamar,Alternative,1464
+263,Imagine Dragons,Rock,499
+264,Vampire Weekend,Pop,1676
+265,Adele,Indie,2537
+266,Zara Larsson,R&B,2887
+267,Drake,Pop,1348
+268,Drake,Pop,1058
+269,Taylor Swift,Pop,3397
+270,Beyoncé,Hip Hop,148
+271,Hozier,Electronic,2154
+272,Guns N' Roses,Alternative,1718
+273,Drake,Indie,203
+274,Beyoncé,Rock,2679
+275,Hozier,Indie,175
+276,Shawn Mendes,Alternative,1630
+277,Guns N' Roses,Electronic,1279
+278,Fleetwood Mac,R&B,395
+279,John Mayer,Indie,101
+280,Imagine Dragons,R&B,972
+281,John Mayer,Electronic,2235
+282,Ed Sheeran,Alternative,1210
+283,X Ambassadors,Pop,3502
+284,Imagine Dragons,Indie,3358
+285,Vampire Weekend,Hip Hop,3118
+286,Zara Larsson,Hip Hop,3532
+287,Shawn Mendes,Pop,1466
+288,Ed Sheeran,Rock,2937
+289,Miley Cyrus,Electronic,1863
+290,Drake,Pop,1599
+291,Taylor Swift,Alternative,3196
+292,Rihanna,Electronic,1556
+293,Hozier,Indie,2953
+294,Miley Cyrus,Electronic,2746
+295,Imagine Dragons,Hip Hop,1518
+296,Vampire Weekend,R&B,1294
+297,X Ambassadors,Alternative,3199
+298,X Ambassadors,Electronic,874
+299,Oasis,R&B,2488
+300,Oasis,Pop,2336
+301,X Ambassadors,Hip Hop,1630
+302,Vampire Weekend,Alternative,160
+303,Queen,Pop,548
+304,Queen,Pop,2187
+305,Oasis,Rock,2078
+306,Young Thug,Hip Hop,3417
+307,Post Malone,R&B,484
+308,Rihanna,Alternative,1598
+309,Queen,Rock,693
+310,Oasis,Indie,1394
+311,Oasis,Rock,2946
+312,U2,Electronic,519
+313,Lana Del Rey,R&B,3123
+314,Post Malone,Pop,2129
+315,Vampire Weekend,Indie,2916
+316,Ed Sheeran,Pop,660
+317,Vampire Weekend,Alternative,937
+318,Adele,Rock,2492
+319,Hozier,Alternative,1546
+320,Beyoncé,Electronic,3342
+321,Coldplay,Rock,244
+322,Kendrick Lamar,Electronic,1131
+323,Shawn Mendes,Alternative,2652
+324,Hozier,Pop,3449
+325,Hozier,R&B,744
+326,Drake,Indie,3236
+327,Guns N' Roses,Indie,2147
+328,Beyoncé,Indie,182
+329,Imagine Dragons,Pop,1797
+330,U2,Electronic,2987
+331,Rihanna,Alternative,3465
+332,Nirvana,Pop,1579
+333,The Weeknd,Alternative,838
+334,Vampire Weekend,Alternative,3498
+335,Zara Larsson,Pop,2247
+336,Kendrick Lamar,Alternative,2080
+337,Post Malone,R&B,3181
+338,Adele,Indie,2910
+339,Drake,Alternative,385
+340,Rihanna,Alternative,407
+341,Taylor Swift,Hip Hop,1025
+342,Hozier,Indie,3441
+343,Hozier,Indie,2597
+344,X Ambassadors,Rock,2043
+345,Vampire Weekend,Hip Hop,908
+346,Taylor Swift,Indie,948
+347,The Weeknd,Electronic,1915
+348,Oasis,Hip Hop,1160
+349,Taylor Swift,Indie,3382
+350,Fleetwood Mac,Rock,393
+351,Beyoncé,Pop,2729
+352,Fleetwood Mac,Hip Hop,154
+353,John Mayer,Hip Hop,2897
+354,Rihanna,Rock,142
+355,Drake,Alternative,2108
+356,Nirvana,Pop,2102
+357,Zara Larsson,Hip Hop,1234
+358,Beyoncé,Pop,2199
+359,Vampire Weekend,Alternative,302
+360,Guns N' Roses,R&B,2029
+361,Rihanna,Alternative,324
+362,Vampire Weekend,Rock,2777
+363,Queen,Alternative,2250
+364,X Ambassadors,Indie,1810
+365,Queen,Alternative,894
+366,Miley Cyrus,Alternative,2922
+367,Taylor Swift,Electronic,1361
+368,Queen,Electronic,2035
+369,Guns N' Roses,Hip Hop,2406
+370,Coldplay,Electronic,100
+371,Hozier,Rock,339
+372,Kendrick Lamar,Indie,2717
+373,Fleetwood Mac,Pop,2986
+374,Oasis,Rock,3053
+375,Rihanna,R&B,1216
+376,Adele,Indie,1894
+377,Adele,Electronic,1669
+378,Coldplay,Indie,3166
+379,Guns N' Roses,Hip Hop,2352
+380,Fleetwood Mac,Hip Hop,402
+381,Post Malone,Indie,654
+382,Oasis,Pop,430
+383,John Mayer,Electronic,3492
+384,Rihanna,Pop,3566
+385,Fleetwood Mac,Electronic,2545
+386,Taylor Swift,Electronic,374
+387,Guns N' Roses,Pop,3518
+388,Ed Sheeran,R&B,3572
+389,Hozier,Alternative,2611
+390,Nirvana,Rock,488
+391,Rihanna,Electronic,1455
+392,Oasis,Alternative,576
+393,Guns N' Roses,Indie,1530
+394,Adele,Pop,1053
+395,Taylor Swift,R&B,2251
+396,Beyoncé,Pop,2331
+397,Drake,Electronic,729
+398,Adele,Indie,1571
+399,Imagine Dragons,Rock,2293
+400,Nirvana,Indie,1768
+401,Fleetwood Mac,Indie,2176
+402,Rihanna,Pop,2878
+403,U2,Pop,1906
+404,Taylor Swift,R&B,1023
+405,Coldplay,Rock,1529
+406,Coldplay,Hip Hop,3544
+407,Nirvana,Pop,2220
+408,Adele,Hip Hop,1812
+409,Oasis,Pop,1133
+410,Coldplay,Electronic,3569
+411,Oasis,Rock,1720
+412,Oasis,R&B,2113
+413,Adele,R&B,1604
+414,Shawn Mendes,Electronic,3096
+415,X Ambassadors,Alternative,645
+416,Zara Larsson,Pop,1682
+417,Adele,Indie,2659
+418,Drake,Rock,686
+419,John Mayer,Hip Hop,1236
+420,X Ambassadors,Pop,374
+421,Post Malone,Alternative,1060
+422,Queen,Alternative,3498
+423,Kendrick Lamar,Alternative,414
+424,Oasis,Pop,2579
+425,Post Malone,Electronic,1228
+426,Vampire Weekend,R&B,1579
+427,U2,Alternative,3400
+428,Guns N' Roses,Indie,2443
+429,Adele,Hip Hop,1398
+430,Hozier,R&B,1440
+431,Nirvana,Hip Hop,2065
+432,Young Thug,Indie,3539
+433,Young Thug,Hip Hop,3350
+434,Beyoncé,Alternative,2929
+435,Queen,Alternative,2968
+436,Beyoncé,Indie,1610
+437,Hozier,Rock,1558
+438,Fleetwood Mac,Indie,2956
+439,Taylor Swift,Indie,1178
+440,Queen,Electronic,1828
+441,Ed Sheeran,Pop,281
+442,Young Thug,Pop,1838
+443,U2,Rock,3312
+444,Zara Larsson,Electronic,1812
+445,Taylor Swift,Indie,1564
+446,Fleetwood Mac,Pop,265
+447,Rihanna,Indie,983
+448,Oasis,Rock,1396
+449,Young Thug,Pop,38
+450,Adele,Pop,821
+451,Zara Larsson,Hip Hop,137
+452,Beyoncé,R&B,3413
+453,Vampire Weekend,Alternative,1513
+454,Imagine Dragons,Indie,3414
+455,Imagine Dragons,Electronic,1212
+456,U2,Rock,2418
+457,The Weeknd,Indie,3027
+458,Young Thug,Electronic,2770
+459,Oasis,Indie,590
+460,Lana Del Rey,Indie,3151
+461,Hozier,Rock,1434
+462,Zara Larsson,Alternative,2385
+463,Post Malone,Indie,952
+464,Miley Cyrus,Electronic,1802
+465,Coldplay,R&B,759
+466,Adele,Pop,1812
+467,Adele,Hip Hop,2000
+468,John Mayer,Alternative,386
+469,John Mayer,Alternative,1650
+470,Miley Cyrus,Indie,787
+471,Kendrick Lamar,Rock,1801
+472,Fleetwood Mac,Alternative,876
+473,Drake,Hip Hop,495
+474,Fleetwood Mac,Hip Hop,197
+475,Fleetwood Mac,R&B,3489
+476,Shawn Mendes,R&B,1934
+477,Coldplay,Rock,2651
+478,Hozier,Indie,839
+479,Taylor Swift,Electronic,2989
+480,Rihanna,Hip Hop,669
+481,Taylor Swift,Pop,2502
+482,John Mayer,Hip Hop,2276
+483,Taylor Swift,R&B,993
+484,The Weeknd,Alternative,1416
+485,Oasis,Indie,1038
+486,Coldplay,R&B,3465
+487,Taylor Swift,Alternative,1227
+488,Rihanna,Hip Hop,153
+489,Zara Larsson,Electronic,2863
+490,Imagine Dragons,R&B,1148
+491,Queen,R&B,514
+492,Shawn Mendes,Rock,780
+493,Drake,Alternative,2176
+494,Hozier,R&B,2154
+495,John Mayer,Electronic,577
+496,Kendrick Lamar,Electronic,51
+497,Shawn Mendes,Alternative,1908
+498,Hozier,Rock,3322
+499,John Mayer,Pop,2281
+500,Post Malone,Hip Hop,2865
+501,Hozier,Rock,2615
+502,Rihanna,Rock,1667
+503,U2,Electronic,2515
+504,Nirvana,Indie,1850
+505,Miley Cyrus,Alternative,3347
+506,Oasis,Hip Hop,2452
+507,Hozier,R&B,1983
+508,U2,R&B,1441
+509,Post Malone,Rock,1879
+510,Hozier,Hip Hop,2109
+511,Imagine Dragons,Electronic,3513
+512,Queen,R&B,2381
+513,Coldplay,Alternative,2295
+514,X Ambassadors,Alternative,907
+515,U2,Hip Hop,2115
+516,Drake,R&B,1894
+517,Hozier,Pop,1247
+518,Taylor Swift,Pop,1399
+519,X Ambassadors,R&B,1139
+520,Adele,R&B,2482
+521,Nirvana,R&B,1174
+522,Hozier,R&B,1528
+523,Guns N' Roses,Electronic,3190
+524,Young Thug,Indie,2681
+525,Guns N' Roses,Hip Hop,671
+526,Post Malone,Alternative,2709
+527,Kendrick Lamar,Indie,852
+528,Young Thug,Rock,1899
+529,Adele,Alternative,1523
+530,Vampire Weekend,Indie,797
+531,Taylor Swift,Hip Hop,2279
+532,Shawn Mendes,R&B,80
+533,Post Malone,Rock,1574
+534,U2,Hip Hop,2111
+535,Taylor Swift,R&B,2883
+536,Taylor Swift,Hip Hop,3157
+537,John Mayer,Alternative,2423
+538,X Ambassadors,R&B,2480
+539,Rihanna,R&B,2617
+540,Imagine Dragons,Pop,1203
+541,Adele,Rock,1722
+542,Beyoncé,Alternative,3328
+543,U2,Pop,1230
+544,X Ambassadors,Hip Hop,1503
+545,Shawn Mendes,Electronic,763
+546,Post Malone,Rock,1464
+547,U2,Pop,3196
+548,Young Thug,Alternative,966
+549,Taylor Swift,Rock,2223
+550,U2,Indie,245
+551,Zara Larsson,R&B,2908
+552,Guns N' Roses,Pop,1254
+553,Coldplay,Indie,1924
+554,Hozier,Alternative,3590
+555,X Ambassadors,Indie,2235
+556,Post Malone,R&B,898
+557,Hozier,Pop,1068
+558,U2,Alternative,1111
+559,Kendrick Lamar,Alternative,867
+560,Hozier,Electronic,251
+561,Young Thug,Indie,752
+562,Ed Sheeran,Rock,3487
+563,Queen,Rock,891
+564,Hozier,R&B,788
+565,Oasis,Pop,73
+566,Lana Del Rey,Pop,1043
+567,Kendrick Lamar,Rock,1241
+568,Kendrick Lamar,Rock,3095
+569,Post Malone,Rock,3190
+570,The Weeknd,Pop,2807
+571,Drake,Hip Hop,1487
+572,U2,Pop,126
+573,Rihanna,Rock,2256
+574,Beyoncé,Hip Hop,621
+575,Hozier,R&B,2053
+576,Coldplay,Alternative,1174
+577,Miley Cyrus,Pop,937
+578,Kendrick Lamar,Pop,1350
+579,Hozier,Rock,944
+580,Imagine Dragons,R&B,3174
+581,John Mayer,Hip Hop,1973
+582,Post Malone,Indie,166
+583,Kendrick Lamar,R&B,3037
+584,U2,Indie,2449
+585,Nirvana,Hip Hop,3273
+586,Ed Sheeran,Indie,1062
+587,Ed Sheeran,Electronic,612
+588,Hozier,Alternative,1329
+589,Hozier,Electronic,2172
+590,John Mayer,R&B,2024
+591,John Mayer,Alternative,608
+592,Oasis,Pop,959
+593,U2,Indie,3510
+594,Beyoncé,Rock,1563
+595,Vampire Weekend,Pop,1273
+596,Vampire Weekend,Hip Hop,775
+597,Imagine Dragons,Alternative,200
+598,Zara Larsson,Rock,965
+599,Miley Cyrus,Electronic,1992
+600,Vampire Weekend,Rock,1559
+601,Rihanna,Hip Hop,2201
+602,Adele,Pop,300
+603,The Weeknd,Pop,1529
+604,Adele,R&B,1975
+605,Oasis,Pop,2481
+606,Zara Larsson,Hip Hop,3037
+607,U2,Electronic,1369
+608,The Weeknd,Hip Hop,1723
+609,Post Malone,Electronic,3418
+610,Ed Sheeran,Electronic,1423
+611,Fleetwood Mac,Indie,94
+612,Taylor Swift,Pop,3065
+613,Nirvana,Pop,1883
+614,Ed Sheeran,Pop,1626
+615,Oasis,Alternative,1628
+616,Guns N' Roses,Alternative,2615
+617,Lana Del Rey,Pop,1630
+618,Coldplay,Pop,116
+619,Vampire Weekend,Pop,696
+620,Shawn Mendes,Rock,2048
+621,U2,Rock,859
+622,Taylor Swift,R&B,1098
+623,Coldplay,Pop,1854
+624,U2,Hip Hop,44
+625,Imagine Dragons,Pop,576
+626,Adele,Indie,3393
+627,Post Malone,Rock,2821
+628,Guns N' Roses,Alternative,2281
+629,Imagine Dragons,Alternative,2779
+630,Imagine Dragons,Electronic,834
+631,Post Malone,Hip Hop,1286
+632,Fleetwood Mac,Electronic,2359
+633,The Weeknd,R&B,1738
+634,Vampire Weekend,Pop,3220
+635,The Weeknd,Pop,1543
+636,Adele,Indie,1503
+637,U2,Electronic,3040
+638,Miley Cyrus,Alternative,1109
+639,Zara Larsson,Rock,2501
+640,Adele,Rock,1918
+641,Imagine Dragons,Rock,241
+642,Queen,Electronic,652
+643,Fleetwood Mac,R&B,1358
+644,Nirvana,Indie,1971
+645,Guns N' Roses,Electronic,2939
+646,Guns N' Roses,R&B,107
+647,Young Thug,Indie,1402
+648,Young Thug,Pop,1460
+649,Ed Sheeran,Electronic,2833
+650,Ed Sheeran,Indie,2580
+651,Adele,Rock,2351
+652,Rihanna,Pop,2053
+653,John Mayer,Indie,2908
+654,Queen,R&B,1364
+655,Hozier,R&B,1871
+656,Oasis,Hip Hop,1861
+657,Nirvana,Electronic,1209
+658,Vampire Weekend,Rock,1050
+659,U2,Hip Hop,3133
+660,Oasis,Alternative,3074
+661,X Ambassadors,Hip Hop,3341
+662,Shawn Mendes,Rock,3197
+663,Drake,Electronic,3092
+664,Fleetwood Mac,Indie,2655
+665,Vampire Weekend,Electronic,266
+666,U2,Rock,298
+667,Coldplay,Pop,2534
+668,Nirvana,Pop,1974
+669,The Weeknd,Alternative,1741
+670,John Mayer,Alternative,1735
+671,X Ambassadors,Rock,1224
+672,John Mayer,Hip Hop,1027
+673,Ed Sheeran,Hip Hop,905
+674,John Mayer,Hip Hop,2770
+675,Guns N' Roses,R&B,1151
+676,Fleetwood Mac,Hip Hop,1677
+677,Hozier,Indie,875
+678,Taylor Swift,Alternative,3234
+679,Zara Larsson,Hip Hop,1380
+680,Rihanna,Pop,1170
+681,Drake,Pop,825
+682,Zara Larsson,Rock,2612
+683,Drake,Rock,816
+684,Imagine Dragons,Electronic,729
+685,Drake,Electronic,300
+686,Vampire Weekend,Alternative,1503
+687,Miley Cyrus,Pop,416
+688,The Weeknd,Hip Hop,743
+689,X Ambassadors,Electronic,972
+690,The Weeknd,Indie,1760
+691,Vampire Weekend,R&B,522
+692,Hozier,Rock,499
+693,Rihanna,R&B,1535
+694,Beyoncé,Electronic,525
+695,The Weeknd,Indie,1142
+696,Guns N' Roses,R&B,815
+697,Oasis,Rock,868
+698,Ed Sheeran,Indie,2543
+699,Zara Larsson,Indie,2468
+700,Oasis,R&B,2061
+701,Adele,R&B,692
+702,John Mayer,Rock,2522
+703,Taylor Swift,Rock,1027
+704,Oasis,Alternative,1986
+705,Young Thug,Hip Hop,623
+706,Fleetwood Mac,R&B,3443
+707,Taylor Swift,Hip Hop,1723
+708,Taylor Swift,R&B,1523
+709,Imagine Dragons,Indie,2993
+710,X Ambassadors,Electronic,2138
+711,Post Malone,Alternative,1338
+712,Queen,Electronic,327
+713,Rihanna,Electronic,1744
+714,Hozier,Rock,1105
+715,Coldplay,Rock,2182
+716,Drake,Indie,3116
+717,Fleetwood Mac,Alternative,2036
+718,Lana Del Rey,Indie,2284
+719,Fleetwood Mac,Hip Hop,594
+720,Adele,Rock,1365
+721,Shawn Mendes,Alternative,2330
+722,Fleetwood Mac,Rock,548
+723,Oasis,Indie,47
+724,Imagine Dragons,Alternative,1968
+725,Oasis,Electronic,1818
+726,John Mayer,R&B,750
+727,X Ambassadors,Electronic,588
+728,Zara Larsson,Electronic,3367
+729,Hozier,Electronic,335
+730,Ed Sheeran,Hip Hop,22
+731,Miley Cyrus,R&B,783
+732,Vampire Weekend,Alternative,594
+733,Beyoncé,Indie,1016
+734,Young Thug,Rock,579
+735,The Weeknd,Indie,1767
+736,Imagine Dragons,Alternative,912
+737,Post Malone,R&B,7
+738,U2,Alternative,1909
+739,Coldplay,R&B,1287
+740,Hozier,Electronic,2429
+741,Nirvana,Indie,1570
+742,Rihanna,Hip Hop,136
+743,Guns N' Roses,Hip Hop,1214
+744,Shawn Mendes,Pop,2786
+745,Guns N' Roses,Pop,1125
+746,Vampire Weekend,R&B,1295
+747,Miley Cyrus,Rock,66
+748,Kendrick Lamar,Rock,2179
+749,The Weeknd,Rock,1670
+750,Queen,Rock,732
+751,Post Malone,Pop,2039
+752,Taylor Swift,Hip Hop,2616
+753,Shawn Mendes,R&B,2229
+754,Coldplay,Rock,3459
+755,John Mayer,R&B,666
+756,X Ambassadors,Pop,2839
+757,Fleetwood Mac,Hip Hop,3271
+758,Fleetwood Mac,Hip Hop,3232
+759,Queen,Hip Hop,667
+760,Nirvana,Electronic,2280
+761,Queen,Electronic,2066
+762,John Mayer,R&B,617
+763,Nirvana,Pop,972
+764,Oasis,R&B,2543
+765,Drake,Pop,3589
+766,X Ambassadors,Indie,2315
+767,Beyoncé,Indie,631
+768,Nirvana,Pop,1511
+769,Young Thug,Rock,784
+770,Oasis,Hip Hop,1118
+771,Shawn Mendes,Indie,3465
+772,Nirvana,Indie,2593
+773,Oasis,Hip Hop,1927
+774,Fleetwood Mac,Indie,100
+775,Adele,Electronic,3081
+776,Rihanna,Alternative,571
+777,Queen,Alternative,2850
+778,Hozier,Indie,3316
+779,Hozier,Rock,354
+780,Post Malone,Alternative,1173
+781,Fleetwood Mac,Rock,1042
+782,Lana Del Rey,Pop,412
+783,Imagine Dragons,Hip Hop,2376
+784,Beyoncé,Electronic,3434
+785,Fleetwood Mac,Indie,1862
+786,Guns N' Roses,Alternative,1133
+787,Hozier,R&B,1734
+788,Queen,Rock,2750
+789,The Weeknd,Indie,1202
+790,U2,Pop,561
+791,Rihanna,Pop,896
+792,U2,Alternative,3124
+793,Coldplay,Electronic,1685
+794,Oasis,Indie,329
+795,Coldplay,Indie,1823
+796,Beyoncé,R&B,558
+797,Adele,Electronic,1189
+798,Zara Larsson,Indie,3452
+799,Lana Del Rey,Electronic,516

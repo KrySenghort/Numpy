@@ -1,0 +1,147 @@
+Customer id	Product id	rating(out of 5)	sales	comment
+1	PC001	5	18894	I absolutely love this product! It has made such a difference in my daily routine
+2	PC002	3	75937	I was disappointed with the quality of the product
+3	PC003	1	99979	This product is amazing! I recommend it to everyone I know
+4	PC004	3	29420	I found the product to be difficult to use and not worth the money
+5	PC005	3	50887	I've been using this product for a few weeks now and I can already see a difference in my skin
+6	PC006	1	91227	I purchased this product based on the great reviews
+7	PC007	3	109744	The product arrived damaged and I had to return it for a refund
+8	PC008	3	67169	I've been using this product for years and it's still my favorite
+9	PC009	3	111346	I had high hopes for this product
+10	PC010	2	117674	This product is a game changer! My hair has never looked better
+11	PC011	4	42930	The product didn't work for me
+12	PC012	3	107155	I love this product so much
+13	PC013	3	22668	The packaging was terrible and the product arrived all smashed up
+14	PC014	3	128789	I've recommended this product to all my friends and they all love it too!
+15	PC015	4	108937	I didn't notice any difference in my skin after using this product for a month
+16	PC016	4	42201	I was hesitant to try this product
+17	PC017	5	62400	The product didn't work for me
+18	PC018	1	115565	This product is way overpriced for what it is
+19	PC019	5	10084	I've been using this product for a week and already notice a huge difference in my complexion
+20	PC020	2	77565	The product smelled terrible and I couldn't even use it
+21	PC021	5	49426	I purchased this product for my daughter and she loves it! Her skin looks amazing
+22	PC022	5	55749	The product was smaller than I expected and didn't last very long
+23	PC023	1	51023	I've tried a lot of different products over the years
+24	PC024	1	8864	The product caused an allergic reaction and I had to stop using it
+25	PC025	5	117754	I received this product as a gift and was pleasantly surprised
+26	PC026	4	114267	The product arrived quickly and was exactly what I was looking for
+27	PC027	3	56744	I was disappointed with the results of this product
+28	PC028	1	17652	I love this product so much
+29	PC029	2	96789	The product was too harsh for my skin and caused redness and irritation
+30	PC030	4	106021	I purchased this product on a whim and I'm so glad I did
+31	PC031	5	10031	I absolutely love this product! The quality is amazing and the customer service is top-notch
+32	PC032	1	12129	This product did not live up to my expectations
+33	PC033	4	99013	I purchased this product for a friend's birthday and she was thrilled with it
+34	PC034	4	101787	The price point for this product is very reasonable and the quality is good for what you pay for
+35	PC035	2	83251	I had some issues with the product when it arrived
+36	PC036	4	127881	I'm so impressed with this product
+37	PC037	1	119738	The product arrived in a timely manner and was well-packaged
+38	PC038	1	64325	I love the design of this product
+39	PC039	2	63397	This product is a game changer! It's made my life so much easier and I can't imagine going back to the way things were before
+40	PC040	4	31325	I've tried a few similar products in the past
+41	PC041	5	117626	The product was easy to use and worked exactly as described
+42	PC042	1	99748	I was disappointed with this product
+43	PC043	1	71462	I've recommended this product to all of my friends! It's a must-have for anyone who wants to simplify their life
+44	PC044	1	77729	The product is well-made and seems to be durable
+45	PC045	5	40358	I had a few questions about the product before purchasing and the customer service team was very helpful and responsive
+46	PC046	5	93688	I'm so glad I found this product! It's made my daily routine so much easier and more efficient
+47	PC047	5	16538	The product was delivered quickly and was exactly what I was expecting
+48	PC048	4	54193	I had some trouble with the product at first
+49	PC049	5	62184	I was pleasantly surprised by the quality of this product
+50	PC050	2	38304	The product didn't work for me
+51	PC051	1	45156	This product is a lifesaver! It's made my day-to-day tasks so much simpler and faster
+52	PC052	2	67305	The product is well-designed and functional
+53	PC053	4	23968	I had high hopes for this product
+54	PC054	4	63026	This product is a great value for the price
+55	PC055	2	18447	This product is amazing! I can't imagine my life without it
+56	PC056	3	32494	 I've been using this product for a while now and I'm really happy with it
+57	PC057	1	13446	The customer service team was great in helping me with my questions
+58	PC058	1	126436	This is by far the best product I've used in this category
+59	PC059	5	38867	The product exceeded my expectations
+60	PC060	3	1649	The product is functional
+61	PC061	5	86595	I really like this product
+62	PC062	5	42685	The quality of the product is top-notch
+63	PC063	5	119647	The product arrived on time and in good condition
+64	PC064	3	46527	I found the product to be a bit overpriced for what it is
+65	PC065	1	64995	The product is easy to use and works well
+66	PC066	2	78406	I'm disappointed with the product
+67	PC067	4	84231	The product has a lot of features
+68	PC068	2	118710	Overall
+69	PC069	2	84050	The product arrived with a defect
+70	PC070	3	62181	The product is great
+71	PC071	1	40101	The product is a bit heavier than I expected
+72	PC072	2	29831	I love this product
+73	PC073	3	34994	The product is a good value for the price
+74	PC074	5	20611	The product didn't work for me
+75	PC075	3	7867	I appreciate the attention to detail that went into making this product
+76	PC076	4	83854	The product is very versatile and can be used in many different ways
+77	PC077	4	114997	I wish the product came in more colors or styles
+78	PC078	1	70817	The product is easy to clean and maintain
+79	PC079	2	36294	I'm impressed with the product's durability
+80	PC080	2	87	The product is a bit bulky
+81	PC081	5	31698	I had some trouble assembling the product
+82	PC082	3	111955	The product is exactly as described
+83	PC083	3	21688	The product is a bit loud
+84	PC084	4	97493	I love the product's design
+85	PC085	1	98734	The product arrived with missing parts
+86	PC086	5	52435	The product is a bit expensive
+87	PC087	2	76312	I'm very satisfied with the quality of the product
+88	PC088	2	95135	The product is very user-friendly
+89	PC089	3	77135	I've recommended this product to several friends and family members
+90	PC090	4	98631	The product is lightweight and easy to move around
+91	PC091	2	81930	The product arrived in a timely manner and was well-packaged
+92	PC092	5	18074	I wish the product had more features or options
+93	PC093	3	22523	The product is very comfortable to use
+94	PC094	2	27126	I'm not sure the product is worth the price
+95	PC095	3	122988	The product has made a big difference in my daily routine
+96	PC096	1	14787	The product is a bit flimsy
+97	PC097	2	44726	I appreciate the product's eco-friendliness and sustainability
+98	PC098	3	88518	The product is a bit difficult to use at first
+99	PC099	1	50461	I had some trouble with the product's customer service
+100	PC100	3	86851	The product is exactly what I was looking for
+101	PC101	4	108507	I wish the product was more customizable to fit my specific needs
+102	PC102	1	129227	The product has exceeded my expectations
+103	PC103	2	58045	The product is a bit smaller than I expected
+104	PC104	3	114050	I was really impressed with the quality of the product
+105	PC105	4	73041	The product arrived earlier than expected and in perfect condition
+106	PC106	2	118693	I wish there were more color options available for this product
+107	PC107	2	48849	I found the product to be very easy to use and intuitive
+108	PC108	2	52703	The customer service team was very helpful in resolving my issue
+109	PC109	4	82326	I love the design of the product
+110	PC110	4	59897	The price was a bit steep
+111	PC111	2	43630	I was disappointed with the size of the product
+112	PC112	1	76478	The packaging was very well-done and protected the product during shipping
+113	PC113	4	104265	The product didn't work as well as I had hoped
+114	PC114	3	125639	I appreciate the eco-friendly materials used in the production of this product
+115	PC115	5	79957	The product was exactly what I was looking for
+116	PC116	2	72188	I had trouble figuring out how to use the product at first
+117	PC117	5	124359	I wish the product had more features
+118	PC118	5	115113	The product arrived damaged
+119	PC119	1	101676	I love the convenience of this product
+120	PC120	2	115637	The product exceeded my expectations in terms of durability
+121	PC121	3	106153	I found the product to be a bit overpriced for what it is
+122	PC122	2	54180	The product is great
+123	PC123	1	16696	I wish there were more size options available for this product
+124	PC124	3	5605	The product is very easy to clean and maintain
+125	PC125	1	18499	The design of the product is very modern and stylish
+126	PC126	4	43954	I'm very happy with my purchase
+127	PC127	2	51029	I had trouble getting the product to work at first
+128	PC128	2	55962	The price was a bit steep
+129	PC129	1	16661	The product was smaller than I anticipated
+130	PC130	5	16309	I appreciate the attention to detail in the design of this product
+131	PC131	5	103646	The product arrived in perfect condition and was easy to set up
+132	PC132	3	56138	The packaging was excessive and seemed wasteful
+133	PC133	4	117028	I found the product to be very versatile and useful in a variety of settings
+134	PC134	2	19859	The product is very lightweight and easy to transport
+135	PC135	3	46949	I wish there were more customization options available for this product
+136	PC136	2	61069	The product is very easy to assemble and disassemble for storage
+137	PC137	3	121517	The quality of the product is top-notch
+138	PC138	4	119075	The product is a bit bulky
+139	PC139	5	30772	I was disappointed with the customer service I received when I had an issue with the product
+140	PC140	1	112422	The product is very affordable and a great value for the price
+141	PC141	2	1974	The product exceeded my expectations in terms of functionality
+142	PC142	4	18546	I love the design of the product
+143	PC143	4	96301	The product was a bit difficult to set up
+144	PC144	2	103092	I wish the product had more color options available
+145	PC145	5	8611	The product is very durable and has held up well over time
+146	PC146	4	63699	The price is a bit high

@@ -1,0 +1,203 @@
+Student ID,Name,Gender,Age,Course,Enrollment Status
+e202001,John Doe,Male,20,Computer Science,Enrolled
+e202002,Jane Smith,Female,19,Computer Science,Enrolled
+e202003,Michael Johnson,Male,21,Computer Science,Enrolled
+e202004,Sarah Williams,Female,18,Computer Science,Enrolled
+e202005,David Brown,Male,20,Computer Science,Enrolled
+e202006,Emily Lee,Female,19,Computer Science,Enrolled
+e202007,James Anderson,Male,22,Computer Science,Enrolled
+e202008,Sophia Davis,Female,18,Computer Science,Enrolled
+e202009,Liam Taylor,Male,20,Computer Science,Enrolled
+e202010,Olivia Harris,Female,19,Computer Science,Enrolled
+e202011,Noah Wilson,Male,21,Computer Science,Enrolled
+e202012,Ava Turner,Female,18,Chemical Engineering,Enrolled
+e202013,Logan Martinez,Male,20,Chemical Engineering,Enrolled
+e202014,Mia Cooper,Female,19,Chemical Engineering,Enrolled
+e202015,Lucas Evans,Male,22,Chemical Engineering,Enrolled
+e202016,Charlotte Jackson,Female,18,Chemical Engineering,Enrolled
+e202017,Aiden Harris,Male,20,Chemical Engineering,Enrolled
+e202018,Grace Martin,Female,19,Chemical Engineering,Enrolled
+e202019,Ethan Adams,Male,21,Chemical Engineering,Enrolled
+e202020,Harper Nelson,Female,18,Chemical Engineering,Enrolled
+e202021,Benjamin Thompson,Male,20,Chemical Engineering,Enrolled
+e202022,Ella Turner,Female,19,Chemical Engineering,Enrolled
+e202023,William Cooper,Male,22,Chemical Engineering,Enrolled
+e202024,Avery Green,Female,18,Chemical Engineering,Enrolled
+e202025,Jack Kelly,Male,20,Software Engineering,Enrolled
+e202026,Sofia Turner,Female,19,Software Engineering,Enrolled
+e202027,Henry Wright,Male,21,Software Engineering,Enrolled
+e202028,Amelia Mitchell,Female,18,Software Engineering,Enrolled
+e202029,Mason Turner,Male,20,Software Engineering,Enrolled
+e202030,Chloe Davis,Female,19,Software Engineering,Enrolled
+e202031,Sebastian Turner,Male,21,Software Engineering,Enrolled
+e202032,Zoe Jenkins,Female,18,Software Engineering,Enrolled
+e202033,Michael Turner,Male,20,Software Engineering,Enrolled
+e202034,Addison Turner,Female,19,Software Engineering,Enrolled
+e202035,Daniel Turner,Male,21,Computer Science,Enrolled
+e202036,Sophia Turner,Female,18,Computer Science,Enrolled
+e202037,Joseph Thompson,Male,20,Computer Science,Enrolled
+e202038,Emily Turner,Female,19,Computer Science,Enrolled
+e202039,Joshua Turner,Male,21,Computer Science,Enrolled
+e202040,Madison Turner,Female,18,Computer Science,Enrolled
+e202041,Andrew Turner,Male,20,Computer Science,Enrolled
+e202042,Isabella Turner,Female,19,Computer Science,Enrolled
+e202043,David Turner,Male,21,Computer Science,Enrolled
+e202044,Evelyn Turner,Female,18,Computer Science,Enrolled
+e202045,James Turner,Male,20,Computer Science,Enrolled
+e202046,Liam Turner,Male,19,Computer Science,Enrolled
+e202047,Emma Turner,Female,18,Computer Science,Enrolled
+e202048,Aiden Turner,Male,20,Computer Science,Enrolled
+e202049,Olivia Turner,Female,19,Data Science,Enrolled
+e202050,Noah Turner,Male,21,Data Science,Enrolled
+e202051,Sophia Turner,Female,18,Data Science,Enrolled
+e202052,Lucas Turner,Male,20,Data Science,Enrolled
+e202053,Harper Turner,Female,19,Data Science,Enrolled
+e202054,Logan Turner,Male,22,Data Science,Enrolled
+e202055,Ella Turner,Female,18,Data Science,Enrolled
+e202056,Jack Turner,Male,20,Data Science,Enrolled
+e202057,Mia Turner,Female,19,Data Science,Enrolled
+e202058,William Turner,Male,21,Data Science,Enrolled
+e202059,Ava Turner,Female,18,Data Science,Enrolled
+e202060,James Turner,Male,20,Data Science,Enrolled
+e202061,Grace Turner,Female,19,Data Science,Enrolled
+e202062,Benjamin Turner,Male,21,Data Science,Enrolled
+e202063,Emily Turner,Female,18,Data Science,Enrolled
+e202064,Daniel Turner,Male,20,Data Science,Enrolled
+e202065,Abigail Turner,Female,19,Data Science,Enrolled
+e202066,Ethan Turner,Male,21,Data Science,Enrolled
+e202067,Charlotte Turner,Female,18,Data Science,Enrolled
+e202068,Joseph Turner,Male,20,Data Science,Enrolled
+e202069,Hannah Turner,Female,19,Telecommunication,Enrolled
+e202070,Sebastian Turner,Male,21,Telecommunication,Enrolled
+e202071,Sofia Turner,Female,18,Telecommunication,Enrolled
+e202072,David Turner,Male,20,Telecommunication,Enrolled
+e202073,Sophia Turner,Female,19,Telecommunication,Enrolled
+e202074,Mason Turner,Male,21,Telecommunication,Enrolled
+e202075,Chloe Turner,Female,18,Telecommunication,Enrolled
+e202076,Michael Turner,Male,20,Telecommunication,Enrolled
+e202077,Olivia Turner,Female,19,Telecommunication,Enrolled
+e202078,Lucas Turner,Male,21,Telecommunication,Enrolled
+e202079,Amelia Turner,Female,18,Telecommunication,Enrolled
+e202080,Joshua Turner,Male,20,Telecommunication,Enrolled
+e202081,Emily Turner,Female,19,Telecommunication,Enrolled
+e202082,Daniel Turner,Male,21,Telecommunication,Enrolled
+e202083,Isabella Turner,Female,18,Telecommunication,Enrolled
+e202084,Sophia Turner,Male,20,Data Science,Enrolled
+e202085,Addison Turner,Female,19,Data Science,Enrolled
+e202086,Andrew Turner,Male,21,Data Science,Enrolled
+e202087,Zoe Turner,Female,18,Data Science,Enrolled
+e202088,David Turner,Male,20,Data Science,Enrolled
+e202089,Madison Turner,Female,19,Data Science,Enrolled
+e202090,Evelyn Turner,Male,21,Data Science,Enrolled
+e202091,Grace Turner,Female,18,Data Science,Enrolled
+e202092,Jack Turner,Male,20,Data Science,Enrolled
+e202093,Emily Turner,Female,19,Data Science,Enrolled
+e202094,James Turner,Male,21,Data Science,Enrolled
+e202095,Olivia Turner,Female,18,Data Science,Enrolled
+e202096,Lucas Turner,Male,20,Data Science,Enrolled
+e202097,Charlotte Turner,Female,19,Civil Engineering,Enrolled
+e202098,Liam Turner,Male,21,Civil Engineering,Enrolled
+e202099,Ava Turner,Female,18,Civil Engineering,Enrolled
+e202100,Ethan Turner,Male,20,Civil Engineering,Enrolled
+e202101,Noah Turner,Male,21,Civil Engineering,Enrolled
+e202102,Sophia Turner,Female,18,Civil Engineering,Enrolled
+e202103,William Turner,Male,20,Civil Engineering,Enrolled
+e202104,Mia Turner,Female,19,Civil Engineering,Enrolled
+e202105,Benjamin Turner,Male,21,Civil Engineering,Enrolled
+e202106,Ella Turner,Female,18,Civil Engineering,Enrolled
+e202107,David Turner,Male,20,Civil Engineering,Enrolled
+e202108,Grace Turner,Female,19,Civil Engineering,Enrolled
+e202109,Logan Turner,Male,21,Civil Engineering,Enrolled
+e202110,Abigail Turner,Female,18,Civil Engineering,Enrolled
+e202111,Joseph Turner,Male,20,Computer Science,Enrolled
+e202112,Harper Turner,Female,19,Computer Science,Enrolled
+e202113,Mason Turner,Male,21,Computer Science,Enrolled
+e202114,Hannah Turner,Female,18,Computer Science,Enrolled
+e202115,Evelyn Turner,Male,20,Computer Science,Enrolled
+e202116,Sofia Turner,Female,19,Computer Science,Enrolled
+e202117,Michael Turner,Male,21,Computer Science,Enrolled
+e202118,Isabella Turner,Female,18,Computer Science,Enrolled
+e202119,Andrew Turner,Male,20,Computer Science,Enrolled
+e202120,Chloe Turner,Female,19,Computer Science,Enrolled
+e202121,Joshua Turner,Male,21,Computer Science,Enrolled
+e202122,Emily Turner,Female,18,Computer Science,Enrolled
+e202123,Sebastian Turner,Male,20,Computer Science,Enrolled
+e202124,Daniel Turner,Male,21,Computer Science,Enrolled
+e202125,Amelia Turner,Female,18,Computer Science,Enrolled
+e202126,Sophia Turner,Male,20,Computer Science,Enrolled
+e202127,Addison Turner,Female,19,Computer Science,Enrolled
+e202128,Ethan Turner,Male,21,Data Science,Enrolled
+e202129,Olivia Turner,Female,18,Data Science,Enrolled
+e202130,Emma Turner,Male,20,Data Science,Enrolled
+e202131,Ella Turner,Female,19,Cybersecurity,Enrolled
+e202132,Ava Turner,Male,21,Cybersecurity,Enrolled
+e202133,James Turner,Female,18,Cybersecurity,Enrolled
+e202134,Liam Turner,Male,20,Cybersecurity,Enrolled
+e202135,Sophia Turner,Female,19,Cybersecurity,Enrolled
+e202136,Noah Turner,Male,21,Cybersecurity,Enrolled
+e202137,Mia Turner,Female,18,Cybersecurity,Enrolled
+e202138,William Turner,Male,20,Cybersecurity,Enrolled
+e202139,Ava Turner,Female,19,Cybersecurity,Enrolled
+e202140,Oliver Turner,Male,21,Cybersecurity,Enrolled
+e202141,Evelyn Turner,Female,18,Cybersecurity,Enrolled
+e202142,Ethan Turner,Male,20,Cybersecurity,Enrolled
+e202143,Emma Turner,Female,19,Cybersecurity,Enrolled
+e202144,Lucas Turner,Male,21,Chemical Engineering,Enrolled
+e202145,Abigail Turner,Female,18,Chemical Engineering,Enrolled
+e202146,Aiden Turner,Male,20,Chemical Engineering,Enrolled
+e202147,Harper Turner,Female,19,Chemical Engineering,Enrolled
+e202148,Liam Turner,Male,21,Chemical Engineering,Enrolled
+e202149,Olivia Turner,Female,18,Chemical Engineering,Enrolled
+e202150,James Turner,Male,20,Chemical Engineering,Enrolled
+e202151,Emily Turner,Female,19,Chemical Engineering,Enrolled
+e202152,Sophia Turner,Male,21,Chemical Engineering,Enrolled
+e202153,Jack Turner,Female,18,Chemical Engineering,Enrolled
+e202154,Benjamin Turner,Male,20,Chemical Engineering,Enrolled
+e202155,Chloe Turner,Female,19,Chemical Engineering,Enrolled
+e202156,Ethan Turner,Male,21,Chemical Engineering,Enrolled
+e202157,Mia Turner,Female,18,Chemical Engineering,Enrolled
+e202158,William Turner,Male,20,Chemical Engineering,Enrolled
+e202159,Grace Turner,Female,19,Civil Engineering,Enrolled
+e202160,Logan Turner,Male,21,Civil Engineering,Enrolled
+e202161,Emma Turner,Female,18,Civil Engineering,Enrolled
+e202162,Michael Turner,Male,20,Civil Engineering,Enrolled
+e202163,Grace Turner,Female,19,Civil Engineering,Enrolled
+e202164,Sophia Turner,Male,21,Civil Engineering,Enrolled
+e202165,Lucas Turner,Female,18,Civil Engineering,Enrolled
+e202166,Ava Turner,Male,20,Civil Engineering,Enrolled
+e202167,Liam Turner,Male,21,Civil Engineering,Enrolled
+e202168,Ella Turner,Female,18,Civil Engineering,Enrolled
+e202169,Ethan Turner,Male,20,Civil Engineering,Enrolled
+e202170,Olivia Turner,Female,19,Civil Engineering,Enrolled
+e202171,Joseph Turner,Male,21,Data Science,Enrolled
+e202172,Avery Turner,Female,18,Data Science,Enrolled
+e202173,Charlotte Turner,Male,20,Data Science,Enrolled
+e202174,Isabella Turner,Female,19,Data Science,Enrolled
+e202175,David Turner,Male,21,Data Science,Enrolled
+e202176,Andrew Turner,Male,20,Data Science,Enrolled
+e202177,Ella Turner,Female,19,Data Science,Enrolled
+e202178,Hannah Turner,Male,21,Data Science,Enrolled
+e202179,Emily Turner,Female,18,Data Science,Enrolled
+e202180,Benjamin Turner,Male,20,Data Science,Enrolled
+e202181,Joshua Turner,Male,21,Data Science,Enrolled
+e202182,Grace Turner,Female,18,Data Science,Enrolled
+e202183,Noah Turner,Male,20,Data Science,Enrolled
+e202184,Ava Turner,Female,19,Data Science,Enrolled
+e202185,Isabella Turner,Female,18,Data Science,Enrolled
+e202186,Oliver Turner,Male,21,Data Science,Enrolled
+e202187,Emma Turner,Female,18,Data Science,Enrolled
+e202188,William Turner,Male,20,Computer Science,Enrolled
+e202189,Sophia Turner,Female,19,Computer Science,Enrolled
+e202190,Liam Turner,Male,21,Computer Science,Enrolled
+e202191,Emily Turner,Female,18,Computer Science,Enrolled
+e202192,Ethan Turner,Male,20,Computer Science,Enrolled
+e202193,Mia Turner,Female,19,Telecommunication,Enrolled
+e202194,Olivia Turner,Female,18,Telecommunication,Enrolled
+e202195,Lucas Turner,Male,21,Telecommunication,Enrolled
+e202196,Chloe Turner,Female,18,Telecommunication,Enrolled
+e202197,James Turner,Male,20,Telecommunication,Enrolled
+e202198,Ella Turner,Female,19,Telecommunication,Enrolled
+e202199,Aiden Turner,Male,20,Telecommunication,Enrolled
+e202200,Harper Turner,Female,19,Telecommunication,Enrolled
+e202201,Michael Turner,Male,21,Telecommunication,Enrolled
+e202002,Kry Senghort,Male,21,Telecommunication,Enrolled
